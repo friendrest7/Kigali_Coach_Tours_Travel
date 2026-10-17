@@ -1,0 +1,4842 @@
+[
+  {
+    "id": 1,
+    "route": "RUKOMO (GICUMBI) - GICUMBI",
+    "origin": "RUKOMO (GICUMBI)",
+    "destination": "GICUMBI",
+    "fare": 416,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 2,
+    "route": "GASEKE - RUKOMO (GICUMBI)",
+    "origin": "GASEKE",
+    "destination": "RUKOMO (GICUMBI)",
+    "fare": 910,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 3,
+    "route": "MIYOVE - BASE",
+    "origin": "MIYOVE",
+    "destination": "BASE",
+    "fare": 951,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 4,
+    "route": "NYABUGOGO - GASEKE",
+    "origin": "NYABUGOGO",
+    "destination": "GASEKE",
+    "fare": 1169,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 5,
+    "route": "GICUMBI - TETERO (MIYOVE)",
+    "origin": "GICUMBI",
+    "destination": "TETERO (MIYOVE)",
+    "fare": 1188,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 6,
+    "route": "GASEKE - GICUMBI",
+    "origin": "GASEKE",
+    "destination": "GICUMBI",
+    "fare": 1247,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 7,
+    "route": "RUKOMO (GICUMBI) - GATUNA",
+    "origin": "RUKOMO (GICUMBI)",
+    "destination": "GATUNA",
+    "fare": 1406,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 8,
+    "route": "GICUMBI - GATUNA",
+    "origin": "GICUMBI",
+    "destination": "GATUNA",
+    "fare": 1465,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 9,
+    "route": "MIYOVE - GAKENKE",
+    "origin": "MIYOVE",
+    "destination": "GAKENKE",
+    "fare": 1505,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 10,
+    "route": "KIVUYE - BUTARO",
+    "origin": "KIVUYE",
+    "destination": "BUTARO",
+    "fare": 1625,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 11,
+    "route": "GICUMBI - BASE",
+    "origin": "GICUMBI",
+    "destination": "BASE",
+    "fare": 1980,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 12,
+    "route": "GICUMBI - RUTARE",
+    "origin": "GICUMBI",
+    "destination": "RUTARE",
+    "fare": 1980,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 13,
+    "route": "NYABUGOGO - RUKOMO (GICUMBI)",
+    "origin": "NYABUGOGO",
+    "destination": "RUKOMO (GICUMBI)",
+    "fare": 2040,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 14,
+    "route": "GASEKE - GATUNA",
+    "origin": "GASEKE",
+    "destination": "GATUNA",
+    "fare": 2079,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 15,
+    "route": "NYABUGOGO - GICUMBI",
+    "origin": "NYABUGOGO",
+    "destination": "GICUMBI",
+    "fare": 2297,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 16,
+    "route": "GICUMBI - GAKENKE",
+    "origin": "GICUMBI",
+    "destination": "GAKENKE",
+    "fare": 2713,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 17,
+    "route": "GICUMBI - KIVUYE",
+    "origin": "GICUMBI",
+    "destination": "KIVUYE",
+    "fare": 2730,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 18,
+    "route": "MIYOVE - MUSANZE",
+    "origin": "MIYOVE",
+    "destination": "MUSANZE",
+    "fare": 2772,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 19,
+    "route": "NYABUGOGO - GATUNA",
+    "origin": "NYABUGOGO",
+    "destination": "GATUNA",
+    "fare": 3248,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 20,
+    "route": "GICUMBI - MUSANZE VIA BASE",
+    "origin": "GICUMBI",
+    "destination": "MUSANZE VIA BASE",
+    "fare": 4356,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 21,
+    "route": "GICUMBI - BUTARO",
+    "origin": "GICUMBI",
+    "destination": "BUTARO",
+    "fare": 4356,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 22,
+    "route": "MUSANZE - BURERA-GICUMBI",
+    "origin": "MUSANZE",
+    "destination": "BURERA-GICUMBI",
+    "fare": 6336,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 23,
+    "route": "MUSANZE - KINGI",
+    "origin": "MUSANZE",
+    "destination": "KINGI",
+    "fare": 436,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 24,
+    "route": "BASE - GAKENKE",
+    "origin": "BASE",
+    "destination": "GAKENKE",
+    "fare": 515,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 25,
+    "route": "MUSANZE - BYANGABO",
+    "origin": "MUSANZE",
+    "destination": "BYANGABO",
+    "fare": 693,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 26,
+    "route": "MUSANZE - MUKAMIRA",
+    "origin": "MUSANZE",
+    "destination": "MUKAMIRA",
+    "fare": 1050,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 27,
+    "route": "MUSANZE - CYANIKA",
+    "origin": "MUSANZE",
+    "destination": "CYANIKA",
+    "fare": 1050,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 28,
+    "route": "MUSANZE - VUNGA",
+    "origin": "MUSANZE",
+    "destination": "VUNGA",
+    "fare": 1287,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 29,
+    "route": "GAKENKE - MUSANZE",
+    "origin": "GAKENKE",
+    "destination": "MUSANZE",
+    "fare": 1307,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 30,
+    "route": "MUSANZE - KABALI",
+    "origin": "MUSANZE",
+    "destination": "KABALI",
+    "fare": 1782,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 31,
+    "route": "BASE - MUSANZE",
+    "origin": "BASE",
+    "destination": "MUSANZE",
+    "fare": 1801,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 32,
+    "route": "MUSANZE - MAHOKO",
+    "origin": "MUSANZE",
+    "destination": "MAHOKO",
+    "fare": 2099,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 33,
+    "route": "NYABUGOGO - BASE",
+    "origin": "NYABUGOGO",
+    "destination": "BASE",
+    "fare": 2158,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 34,
+    "route": "BASE - KIRAMBO (BURERA)",
+    "origin": "BASE",
+    "destination": "KIRAMBO (BURERA)",
+    "fare": 2198,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 35,
+    "route": "MUSANZE - KABAYA",
+    "origin": "MUSANZE",
+    "destination": "KABAYA",
+    "fare": 2258,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 36,
+    "route": "GAKENKE - MUKAMIRA",
+    "origin": "GAKENKE",
+    "destination": "MUKAMIRA",
+    "fare": 2357,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 37,
+    "route": "NYABUGOGO - GAKENKE",
+    "origin": "NYABUGOGO",
+    "destination": "GAKENKE",
+    "fare": 2416,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 38,
+    "route": "MUSANZE - JANJA",
+    "origin": "MUSANZE",
+    "destination": "JANJA",
+    "fare": 2534,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 39,
+    "route": "MUSANZE - BUTARO",
+    "origin": "MUSANZE",
+    "destination": "BUTARO",
+    "fare": 2573,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 40,
+    "route": "MUSANZE - RUBAVU",
+    "origin": "MUSANZE",
+    "destination": "RUBAVU",
+    "fare": 2573,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 41,
+    "route": "NYABUGOGO - RUSHASHI via RULI",
+    "origin": "NYABUGOGO",
+    "destination": "RUSHASHI via RULI",
+    "fare": 2693,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 42,
+    "route": "MUSANZE - KIRAMBO (BURERA) Via NKUMBA",
+    "origin": "MUSANZE",
+    "destination": "KIRAMBO (BURERA) Via NKUMBA",
+    "fare": 2970,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 43,
+    "route": "MUSANZE - NGORORERO",
+    "origin": "MUSANZE",
+    "destination": "NGORORERO",
+    "fare": 3485,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 44,
+    "route": "BASE - BUTARO",
+    "origin": "BASE",
+    "destination": "BUTARO",
+    "fare": 3783,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 45,
+    "route": "NYABUGOGO - MUSANZE",
+    "origin": "NYABUGOGO",
+    "destination": "MUSANZE",
+    "fare": 3821,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 46,
+    "route": "NYABUGOGO - BUTARO via BASE",
+    "origin": "NYABUGOGO",
+    "destination": "BUTARO via BASE",
+    "fare": 5940,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 47,
+    "route": "RUSHAKI - KARAMA",
+    "origin": "RUSHAKI",
+    "destination": "KARAMA",
+    "fare": 990,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 48,
+    "route": "KARAMA - RUKOMO (NYAGATARE)",
+    "origin": "KARAMA",
+    "destination": "RUKOMO (NYAGATARE)",
+    "fare": 634,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 49,
+    "route": "KARAMA - NYAGATARE VIA RUKOMO",
+    "origin": "KARAMA",
+    "destination": "NYAGATARE VIA RUKOMO",
+    "fare": 1505,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 50,
+    "route": "NGARAMA - NYAGATARE",
+    "origin": "NGARAMA",
+    "destination": "NYAGATARE",
+    "fare": 1525,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 51,
+    "route": "GICUMBI - RUSHAKI",
+    "origin": "GICUMBI",
+    "destination": "RUSHAKI",
+    "fare": 2198,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 52,
+    "route": "RUSHAKI - NYAGATARE",
+    "origin": "RUSHAKI",
+    "destination": "NYAGATARE",
+    "fare": 2297,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 53,
+    "route": "NYABUGOGO - CYURU via RUKOMO (GICUMBI)",
+    "origin": "NYABUGOGO",
+    "destination": "CYURU via RUKOMO (GICUMBI)",
+    "fare": 2376,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 54,
+    "route": "GICUMBI - KARAMA",
+    "origin": "GICUMBI",
+    "destination": "KARAMA",
+    "fare": 2732,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 55,
+    "route": "NYABUGOGO - BURIMBI Via RUKOMO (GICUMBI)",
+    "origin": "NYABUGOGO",
+    "destination": "BURIMBI Via RUKOMO (GICUMBI)",
+    "fare": 2772,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 56,
+    "route": "NYABUGOGO - RULI via SHYORONGI",
+    "origin": "NYABUGOGO",
+    "destination": "RULI via SHYORONGI",
+    "fare": 2950,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 57,
+    "route": "GICUMBI - NGARAMA",
+    "origin": "GICUMBI",
+    "destination": "NGARAMA",
+    "fare": 2970,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 58,
+    "route": "NYABUGOGO - NYAGAHANGA Via RUKOMO (GICUMBI)",
+    "origin": "NYABUGOGO",
+    "destination": "NYAGAHANGA Via RUKOMO (GICUMBI)",
+    "fare": 3366,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 59,
+    "route": "GICUMBI - NYAGATARE via NGARAMA",
+    "origin": "GICUMBI",
+    "destination": "NYAGATARE via NGARAMA",
+    "fare": 3683,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 60,
+    "route": "NYABUGOGO - NGARAMA via RUKOMO (GICUMBI)",
+    "origin": "NYABUGOGO",
+    "destination": "NGARAMA via RUKOMO (GICUMBI)",
+    "fare": 3960,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 61,
+    "route": "GICUMBI - RUKOMO (NYAGATARE)",
+    "origin": "GICUMBI",
+    "destination": "RUKOMO (NYAGATARE)",
+    "fare": 4138,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 62,
+    "route": "GICUMBI - NYAGATARE via RUSHAKI",
+    "origin": "GICUMBI",
+    "destination": "NYAGATARE via RUSHAKI",
+    "fare": 4337,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 63,
+    "route": "NYABUGOGO - MIMURI Via RUKOMO (GICUMBI)",
+    "origin": "NYABUGOGO",
+    "destination": "MIMURI Via RUKOMO (GICUMBI)",
+    "fare": 4356,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 64,
+    "route": "NYABUGOGO - KIRAMBO via BASE",
+    "origin": "NYABUGOGO",
+    "destination": "KIRAMBO via BASE",
+    "fare": 4356,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 65,
+    "route": "GICUMBI - NYAGATARE via Karama",
+    "origin": "GICUMBI",
+    "destination": "NYAGATARE via Karama",
+    "fare": 4535,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 66,
+    "route": "NYABUGOGO - NYAGATARE via RUKOMO (GICUMBI)",
+    "origin": "NYABUGOGO",
+    "destination": "NYAGATARE via RUKOMO (GICUMBI)",
+    "fare": 5346,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 67,
+    "route": "GICUMBI - BUGUMA Via CYABAYAGA",
+    "origin": "GICUMBI",
+    "destination": "BUGUMA Via CYABAYAGA",
+    "fare": 5940,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 68,
+    "route": "KARANGAZI - RYABEGA",
+    "origin": "KARANGAZI",
+    "destination": "RYABEGA",
+    "fare": 198,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 69,
+    "route": "KIRAMURUZI - KIZIGURO",
+    "origin": "KIRAMURUZI",
+    "destination": "KIZIGURO",
+    "fare": 297,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 70,
+    "route": "KIZIGURO - RWAGITIMA",
+    "origin": "KIZIGURO",
+    "destination": "RWAGITIMA",
+    "fare": 337,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 71,
+    "route": "RWAGITIMA - KABARORE",
+    "origin": "RWAGITIMA",
+    "destination": "KABARORE",
+    "fare": 337,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 72,
+    "route": "BUGARAGARA - RWIMIYAGA",
+    "origin": "BUGARAGARA",
+    "destination": "RWIMIYAGA",
+    "fare": 337,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 73,
+    "route": "KABARORE - GABIRO",
+    "origin": "KABARORE",
+    "destination": "GABIRO",
+    "fare": 356,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 74,
+    "route": "MATIMBA - KAGITUMBA",
+    "origin": "MATIMBA",
+    "destination": "KAGITUMBA",
+    "fare": 377,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 75,
+    "route": "RYABEGA - BUGARAGARA",
+    "origin": "RYABEGA",
+    "destination": "BUGARAGARA",
+    "fare": 416,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 76,
+    "route": "RWIMIYAGA - MATIMBA",
+    "origin": "RWIMIYAGA",
+    "destination": "MATIMBA",
+    "fare": 494,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 77,
+    "route": "KAYONZA - KIRAMURUZI",
+    "origin": "KAYONZA",
+    "destination": "KIRAMURUZI",
+    "fare": 634,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 78,
+    "route": "KIRAMURUZI - RWAGITIMA",
+    "origin": "KIRAMURUZI",
+    "destination": "RWAGITIMA",
+    "fare": 634,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 79,
+    "route": "KIZIGURO - KABARORE",
+    "origin": "KIZIGURO",
+    "destination": "KABARORE",
+    "fare": 673,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 80,
+    "route": "RWAGITIMA - GABIRO",
+    "origin": "RWAGITIMA",
+    "destination": "GABIRO",
+    "fare": 673,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 81,
+    "route": "GABIRO - KARANGAZI",
+    "origin": "GABIRO",
+    "destination": "KARANGAZI",
+    "fare": 753,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 82,
+    "route": "RYABEGA - RWIMIYAGA",
+    "origin": "RYABEGA",
+    "destination": "RWIMIYAGA",
+    "fare": 753,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 83,
+    "route": "RYABEGA - NYAGATARE",
+    "origin": "RYABEGA",
+    "destination": "NYAGATARE",
+    "fare": 832,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 84,
+    "route": "BUGARAGARA - MATIMBA",
+    "origin": "BUGARAGARA",
+    "destination": "MATIMBA",
+    "fare": 832,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 85,
+    "route": "RWIMIYAGA - KAGITUMBA",
+    "origin": "RWIMIYAGA",
+    "destination": "KAGITUMBA",
+    "fare": 871,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 86,
+    "route": "GABIRO - RYABEGA",
+    "origin": "GABIRO",
+    "destination": "RYABEGA",
+    "fare": 951,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 87,
+    "route": "NYAGATARE - MIMURI",
+    "origin": "NYAGATARE",
+    "destination": "MIMURI",
+    "fare": 951,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 88,
+    "route": "NYAGATARE - BUGARAGARA",
+    "origin": "NYAGATARE",
+    "destination": "BUGARAGARA",
+    "fare": 951,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 89,
+    "route": "KIZIGURO - GABIRO",
+    "origin": "KIZIGURO",
+    "destination": "GABIRO",
+    "fare": 990,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 90,
+    "route": "KIRAMURUZI - KABARORE",
+    "origin": "KIRAMURUZI",
+    "destination": "KABARORE",
+    "fare": 1050,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 91,
+    "route": "KABARORE - KARANGAZI",
+    "origin": "KABARORE",
+    "destination": "KARANGAZI",
+    "fare": 1050,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 92,
+    "route": "KARANGAZI - NYAGATARE",
+    "origin": "KARANGAZI",
+    "destination": "NYAGATARE",
+    "fare": 1050,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 93,
+    "route": "NYAGATARE - RUKOMO (NYAGATARE)",
+    "origin": "NYAGATARE",
+    "destination": "RUKOMO (NYAGATARE)",
+    "fare": 1050,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 94,
+    "route": "KAYONZA - KIZIGURO",
+    "origin": "KAYONZA",
+    "destination": "KIZIGURO",
+    "fare": 1208,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 95,
+    "route": "BUGARAGARA - KAGITUMBA",
+    "origin": "BUGARAGARA",
+    "destination": "KAGITUMBA",
+    "fare": 1208,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 96,
+    "route": "KABARORE - RYABEGA",
+    "origin": "KABARORE",
+    "destination": "RYABEGA",
+    "fare": 1247,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 97,
+    "route": "RYABEGA - MATIMBA",
+    "origin": "RYABEGA",
+    "destination": "MATIMBA",
+    "fare": 1247,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 98,
+    "route": "KIRAMURUZI - GABIRO",
+    "origin": "KIRAMURUZI",
+    "destination": "GABIRO",
+    "fare": 1287,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 99,
+    "route": "NYAGATARE - RWIMIYAGA",
+    "origin": "NYAGATARE",
+    "destination": "RWIMIYAGA",
+    "fare": 1287,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 100,
+    "route": "RWAGITIMA - KARANGAZI",
+    "origin": "RWAGITIMA",
+    "destination": "KARANGAZI",
+    "fare": 1406,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 101,
+    "route": "GABIRO - NYAGATARE",
+    "origin": "GABIRO",
+    "destination": "NYAGATARE",
+    "fare": 1465,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 102,
+    "route": "KAYONZA - RWAGITIMA",
+    "origin": "KAYONZA",
+    "destination": "RWAGITIMA",
+    "fare": 1544,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 103,
+    "route": "RWAMAGANA - KIRAMURUZI",
+    "origin": "RWAMAGANA",
+    "destination": "KIRAMURUZI",
+    "fare": 1544,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 104,
+    "route": "RWAGITIMA - RYABEGA",
+    "origin": "RWAGITIMA",
+    "destination": "RYABEGA",
+    "fare": 1624,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 105,
+    "route": "KABARORE - NYAGATARE",
+    "origin": "KABARORE",
+    "destination": "NYAGATARE",
+    "fare": 1663,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 106,
+    "route": "KARAMA - NYAGATARE via TABAGWE",
+    "origin": "KARAMA",
+    "destination": "NYAGATARE via TABAGWE",
+    "fare": 1702,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 107,
+    "route": "KIZIGURO - KARANGAZI",
+    "origin": "KIZIGURO",
+    "destination": "KARANGAZI",
+    "fare": 1742,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 108,
+    "route": "RWAMAGANA - KIZIGURO",
+    "origin": "RWAMAGANA",
+    "destination": "KIZIGURO",
+    "fare": 1742,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 109,
+    "route": "NYAGATARE - MATIMBA",
+    "origin": "NYAGATARE",
+    "destination": "MATIMBA",
+    "fare": 1742,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 110,
+    "route": "KAYONZA - KABARORE",
+    "origin": "KAYONZA",
+    "destination": "KABARORE",
+    "fare": 1881,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 111,
+    "route": "KIZIGURO - RYABEGA",
+    "origin": "KIZIGURO",
+    "destination": "RYABEGA",
+    "fare": 1960,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 112,
+    "route": "RYABEGA - KAGITUMBA",
+    "origin": "RYABEGA",
+    "destination": "KAGITUMBA",
+    "fare": 1960,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 113,
+    "route": "KIRAMURUZI - KARANGAZI",
+    "origin": "KIRAMURUZI",
+    "destination": "KARANGAZI",
+    "fare": 2040,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 114,
+    "route": "RWAGITIMA - NYAGATARE",
+    "origin": "RWAGITIMA",
+    "destination": "NYAGATARE",
+    "fare": 2139,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 115,
+    "route": "NYAGATARE - KAGITUMBA",
+    "origin": "NYAGATARE",
+    "destination": "KAGITUMBA",
+    "fare": 2158,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 116,
+    "route": "KAYONZA - GABIRO",
+    "origin": "KAYONZA",
+    "destination": "GABIRO",
+    "fare": 2217,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 117,
+    "route": "KIRAMURUZI - RYABEGA",
+    "origin": "KIRAMURUZI",
+    "destination": "RYABEGA",
+    "fare": 2237,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 118,
+    "route": "RWAMAGANA - RWAGITIMA",
+    "origin": "RWAMAGANA",
+    "destination": "RWAGITIMA",
+    "fare": 2416,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 119,
+    "route": "KIZIGURO - NYAGATARE",
+    "origin": "KIZIGURO",
+    "destination": "NYAGATARE",
+    "fare": 2435,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 120,
+    "route": "RWAMAGANA - KABARORE",
+    "origin": "RWAMAGANA",
+    "destination": "KABARORE",
+    "fare": 2594,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 121,
+    "route": "KIRAMURUZI - NYAGATARE",
+    "origin": "KIRAMURUZI",
+    "destination": "NYAGATARE",
+    "fare": 2752,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 122,
+    "route": "KABARORE - KAGITUMBA",
+    "origin": "KABARORE",
+    "destination": "KAGITUMBA",
+    "fare": 2911,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 123,
+    "route": "KAYONZA - KARANGAZI",
+    "origin": "KAYONZA",
+    "destination": "KARANGAZI",
+    "fare": 2950,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 124,
+    "route": "RWAMAGANA - GABIRO",
+    "origin": "RWAMAGANA",
+    "destination": "GABIRO",
+    "fare": 2950,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 125,
+    "route": "KABUGA - KIRAMURUZI",
+    "origin": "KABUGA",
+    "destination": "KIRAMURUZI",
+    "fare": 3009,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 126,
+    "route": "NYABUGOGO - KAYONZA",
+    "origin": "NYABUGOGO",
+    "destination": "KAYONZA",
+    "fare": 3129,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 127,
+    "route": "KAYONZA - RYABEGA",
+    "origin": "KAYONZA",
+    "destination": "RYABEGA",
+    "fare": 3168,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 128,
+    "route": "KAYONZA - NYAGATARE",
+    "origin": "KAYONZA",
+    "destination": "NYAGATARE",
+    "fare": 3584,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 129,
+    "route": "RWAMAGANA - KARANGAZI",
+    "origin": "RWAMAGANA",
+    "destination": "KARANGAZI",
+    "fare": 3664,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 130,
+    "route": "RWAMAGANA - RYABEGA",
+    "origin": "RWAMAGANA",
+    "destination": "RYABEGA",
+    "fare": 3880,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 131,
+    "route": "KABUGA - KABARORE",
+    "origin": "KABUGA",
+    "destination": "KABARORE",
+    "fare": 4079,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 132,
+    "route": "NYABUGOGO - KIRAMURUZI",
+    "origin": "NYABUGOGO",
+    "destination": "KIRAMURUZI",
+    "fare": 4158,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 133,
+    "route": "RWAMAGANA - NYAGATARE",
+    "origin": "RWAMAGANA",
+    "destination": "NYAGATARE",
+    "fare": 4257,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 134,
+    "route": "RWAMAGANA - BUGARAGARA",
+    "origin": "RWAMAGANA",
+    "destination": "BUGARAGARA",
+    "fare": 4316,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 135,
+    "route": "NYABUGOGO - KIZIGURO",
+    "origin": "NYABUGOGO",
+    "destination": "KIZIGURO",
+    "fare": 4356,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 136,
+    "route": "RWAMAGANA - RWIMIYAGA",
+    "origin": "RWAMAGANA",
+    "destination": "RWIMIYAGA",
+    "fare": 4613,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 137,
+    "route": "NYABUGOGO - RWAGITIMA",
+    "origin": "NYABUGOGO",
+    "destination": "RWAGITIMA",
+    "fare": 4792,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 138,
+    "route": "NYABUGOGO - KABARORE",
+    "origin": "NYABUGOGO",
+    "destination": "KABARORE",
+    "fare": 5010,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 139,
+    "route": "NYABUGOGO - MUHURA via KIRAMURUZI",
+    "origin": "NYABUGOGO",
+    "destination": "MUHURA via KIRAMURUZI",
+    "fare": 5068,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 140,
+    "route": "RWAMAGANA - MATIMBA",
+    "origin": "RWAMAGANA",
+    "destination": "MATIMBA",
+    "fare": 5148,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 141,
+    "route": "KABUGA - KARANGAZI",
+    "origin": "KABUGA",
+    "destination": "KARANGAZI",
+    "fare": 5148,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 142,
+    "route": "KABUGA - RYABEGA",
+    "origin": "KABUGA",
+    "destination": "RYABEGA",
+    "fare": 5366,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 143,
+    "route": "RWAMAGANA - KAGITUMBA",
+    "origin": "RWAMAGANA",
+    "destination": "KAGITUMBA",
+    "fare": 5525,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 144,
+    "route": "NYABUGOGO - GABIRO",
+    "origin": "NYABUGOGO",
+    "destination": "GABIRO",
+    "fare": 5584,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 145,
+    "route": "KABUGA - NYAGATARE",
+    "origin": "KABUGA",
+    "destination": "NYAGATARE",
+    "fare": 5900,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 146,
+    "route": "NYABUGOGO - KARANGAZI",
+    "origin": "NYABUGOGO",
+    "destination": "KARANGAZI",
+    "fare": 6058,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 147,
+    "route": "KABUGA - RWIMIYAGA",
+    "origin": "KABUGA",
+    "destination": "RWIMIYAGA",
+    "fare": 6118,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 148,
+    "route": "NYABUGOGO - RYABEGA",
+    "origin": "NYABUGOGO",
+    "destination": "RYABEGA",
+    "fare": 6276,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 149,
+    "route": "NYABUGOGO - NGARAMA via GABIRO",
+    "origin": "NYABUGOGO",
+    "destination": "NGARAMA via GABIRO",
+    "fare": 6316,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 150,
+    "route": "KABUGA - MATIMBA",
+    "origin": "KABUGA",
+    "destination": "MATIMBA",
+    "fare": 6653,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 151,
+    "route": "NYABUGOGO - NYAGATARE Via KAYONZA",
+    "origin": "NYABUGOGO",
+    "destination": "NYAGATARE Via KAYONZA",
+    "fare": 6712,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 152,
+    "route": "NYABUGOGO - BUGARAGARA",
+    "origin": "NYABUGOGO",
+    "destination": "BUGARAGARA",
+    "fare": 6811,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 153,
+    "route": "KABUGA - KAGITUMBA",
+    "origin": "KABUGA",
+    "destination": "KAGITUMBA",
+    "fare": 7029,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 154,
+    "route": "NYABUGOGO - RWIMIYAGA",
+    "origin": "NYABUGOGO",
+    "destination": "RWIMIYAGA",
+    "fare": 7147,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 155,
+    "route": "NYABUGOGO - MATIMBA",
+    "origin": "NYABUGOGO",
+    "destination": "MATIMBA",
+    "fare": 7643,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 156,
+    "route": "NYABUGOGO - KAGITUMBA",
+    "origin": "NYABUGOGO",
+    "destination": "KAGITUMBA",
+    "fare": 7900,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 157,
+    "route": "KABUGA - MUYUMBU",
+    "origin": "KABUGA",
+    "destination": "MUYUMBU",
+    "fare": 356,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 158,
+    "route": "GATORE - NYAKARAMBI",
+    "origin": "GATORE",
+    "destination": "NYAKARAMBI",
+    "fare": 455,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 159,
+    "route": "KABARONDO - RWINKWAVU",
+    "origin": "KABARONDO",
+    "destination": "RWINKWAVU",
+    "fare": 515,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 160,
+    "route": "KABUGA - NYAGASAMBU",
+    "origin": "KABUGA",
+    "destination": "NYAGASAMBU",
+    "fare": 595,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 161,
+    "route": "RWAMAGANA - KAYONZA",
+    "origin": "RWAMAGANA",
+    "destination": "KAYONZA",
+    "fare": 634,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 162,
+    "route": "KAYONZA - KABARONDO",
+    "origin": "KAYONZA",
+    "destination": "KABARONDO",
+    "fare": 653,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 163,
+    "route": "KABARONDO - NGOMA",
+    "origin": "KABARONDO",
+    "destination": "NGOMA",
+    "fare": 653,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 164,
+    "route": "KABARONDO - NYANKORA",
+    "origin": "KABARONDO",
+    "destination": "NYANKORA",
+    "fare": 792,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 165,
+    "route": "NYAGASAMBU - RWAMAGANA",
+    "origin": "NYAGASAMBU",
+    "destination": "RWAMAGANA",
+    "fare": 910,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 166,
+    "route": "NYAKARAMBI - RUSUMO",
+    "origin": "NYAKARAMBI",
+    "destination": "RUSUMO",
+    "fare": 910,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 167,
+    "route": "KABUGA - NTUNGA",
+    "origin": "KABUGA",
+    "destination": "NTUNGA",
+    "fare": 930,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 168,
+    "route": "NGOMA - GATORE",
+    "origin": "NGOMA",
+    "destination": "GATORE",
+    "fare": 1050,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 169,
+    "route": "NGOMA - RWINKWAVU",
+    "origin": "NGOMA",
+    "destination": "RWINKWAVU",
+    "fare": 1149,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 170,
+    "route": "KAYONZA - RWINKWAVU",
+    "origin": "KAYONZA",
+    "destination": "RWINKWAVU",
+    "fare": 1188,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 171,
+    "route": "RWAMAGANA - KABARONDO",
+    "origin": "RWAMAGANA",
+    "destination": "KABARONDO",
+    "fare": 1287,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 172,
+    "route": "GATORE - RUSUMO",
+    "origin": "GATORE",
+    "destination": "RUSUMO",
+    "fare": 1326,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 173,
+    "route": "KABUGA - CYILI",
+    "origin": "KABUGA",
+    "destination": "CYILI",
+    "fare": 1326,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 174,
+    "route": "KABUGA - KARENGE",
+    "origin": "KABUGA",
+    "destination": "KARENGE",
+    "fare": 1386,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 175,
+    "route": "NGOMA - NYANKORA",
+    "origin": "NGOMA",
+    "destination": "NYANKORA",
+    "fare": 1426,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 176,
+    "route": "KAYONZA - NGOMA",
+    "origin": "KAYONZA",
+    "destination": "NGOMA",
+    "fare": 1465,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 177,
+    "route": "KAYONZA - NYANKORA",
+    "origin": "KAYONZA",
+    "destination": "NYANKORA",
+    "fare": 1484,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 178,
+    "route": "KABUGA - RWAMAGANA",
+    "origin": "KABUGA",
+    "destination": "RWAMAGANA",
+    "fare": 1484,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 179,
+    "route": "NGOMA - NYAKARAMBI",
+    "origin": "NGOMA",
+    "destination": "NYAKARAMBI",
+    "fare": 1525,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 180,
+    "route": "NYABUGOGO - NYAGASAMBU",
+    "origin": "NYABUGOGO",
+    "destination": "NYAGASAMBU",
+    "fare": 1604,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 181,
+    "route": "NYAGASAMBU - KAYONZA",
+    "origin": "NYAGASAMBU",
+    "destination": "KAYONZA",
+    "fare": 1624,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 182,
+    "route": "KABARONDO - GATORE",
+    "origin": "KABARONDO",
+    "destination": "GATORE",
+    "fare": 1684,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 183,
+    "route": "RWAMAGANA - RWINKWAVU",
+    "origin": "RWAMAGANA",
+    "destination": "RWINKWAVU",
+    "fare": 1900,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 184,
+    "route": "RWAMAGANA - NGOMA",
+    "origin": "RWAMAGANA",
+    "destination": "NGOMA",
+    "fare": 2040,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 185,
+    "route": "KABARONDO - NYAKARAMBI",
+    "origin": "KABARONDO",
+    "destination": "NYAKARAMBI",
+    "fare": 2139,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 186,
+    "route": "RWAMAGANA - NYANKORA",
+    "origin": "RWAMAGANA",
+    "destination": "NYANKORA",
+    "fare": 2217,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 187,
+    "route": "KABUGA - KAYONZA",
+    "origin": "KABUGA",
+    "destination": "KAYONZA",
+    "fare": 2217,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 188,
+    "route": "NGOMA - RUSUMO",
+    "origin": "NGOMA",
+    "destination": "RUSUMO",
+    "fare": 2316,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 189,
+    "route": "KAYONZA - GATORE",
+    "origin": "KAYONZA",
+    "destination": "GATORE",
+    "fare": 2376,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 190,
+    "route": "NYABUGOGO - RWAMAGANA",
+    "origin": "NYABUGOGO",
+    "destination": "RWAMAGANA",
+    "fare": 2495,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 191,
+    "route": "GASETSA - RUSUMO",
+    "origin": "GASETSA",
+    "destination": "RUSUMO",
+    "fare": 2633,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 192,
+    "route": "KAYONZA - NYAKARAMBI",
+    "origin": "KAYONZA",
+    "destination": "NYAKARAMBI",
+    "fare": 2832,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 193,
+    "route": "KABUGA - KABARONDO",
+    "origin": "KABUGA",
+    "destination": "KABARONDO",
+    "fare": 2890,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 194,
+    "route": "KABARONDO - RUSUMO",
+    "origin": "KABARONDO",
+    "destination": "RUSUMO",
+    "fare": 2950,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 195,
+    "route": "RWAMAGANA - GATORE",
+    "origin": "RWAMAGANA",
+    "destination": "GATORE",
+    "fare": 3089,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 196,
+    "route": "KABARONDO - NASHO",
+    "origin": "KABARONDO",
+    "destination": "NASHO",
+    "fare": 3267,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 197,
+    "route": "KABUGA - NGOMA",
+    "origin": "KABUGA",
+    "destination": "NGOMA",
+    "fare": 3544,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 198,
+    "route": "RWAMAGANA - NYAKARAMBI",
+    "origin": "RWAMAGANA",
+    "destination": "NYAKARAMBI",
+    "fare": 3563,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 199,
+    "route": "KAYONZA - RUSUMO",
+    "origin": "KAYONZA",
+    "destination": "RUSUMO",
+    "fare": 3821,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 200,
+    "route": "NGOMA - NASHO",
+    "origin": "NGOMA",
+    "destination": "NASHO",
+    "fare": 3921,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 201,
+    "route": "NYABUGOGO - KABARONDO",
+    "origin": "NYABUGOGO",
+    "destination": "KABARONDO",
+    "fare": 3940,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 202,
+    "route": "KAYONZA - NASHO",
+    "origin": "KAYONZA",
+    "destination": "NASHO",
+    "fare": 3979,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 203,
+    "route": "RWAMAGANA - RUSUMO",
+    "origin": "RWAMAGANA",
+    "destination": "RUSUMO",
+    "fare": 4237,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 204,
+    "route": "NYABUGOGO - NGOMA",
+    "origin": "NYABUGOGO",
+    "destination": "NGOMA",
+    "fare": 4574,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 205,
+    "route": "RWAMAGANA - NASHO",
+    "origin": "RWAMAGANA",
+    "destination": "NASHO",
+    "fare": 4693,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 206,
+    "route": "KABUGA - NYAKARAMBI",
+    "origin": "KABUGA",
+    "destination": "NYAKARAMBI",
+    "fare": 5029,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 207,
+    "route": "NYABUGOGO - BUHABWA Via RUKARA",
+    "origin": "NYABUGOGO",
+    "destination": "BUHABWA Via RUKARA",
+    "fare": 5484,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 208,
+    "route": "NYABUGOGO - GATORE",
+    "origin": "NYABUGOGO",
+    "destination": "GATORE",
+    "fare": 5623,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 209,
+    "route": "KABUGA - RUSUMO",
+    "origin": "KABUGA",
+    "destination": "RUSUMO",
+    "fare": 5980,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 210,
+    "route": "NYABUGOGO - NYAKARAMBI",
+    "origin": "NYABUGOGO",
+    "destination": "NYAKARAMBI",
+    "fare": 6079,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 211,
+    "route": "NYABUGOGO - RUSUMO",
+    "origin": "NYABUGOGO",
+    "destination": "RUSUMO",
+    "fare": 7029,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 212,
+    "route": "NYABUGOGO - MAHAMA",
+    "origin": "NYABUGOGO",
+    "destination": "MAHAMA",
+    "fare": 7921,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 213,
+    "route": "RAMIRO - BATIMA",
+    "origin": "RAMIRO",
+    "destination": "BATIMA",
+    "fare": 792,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 214,
+    "route": "SAKE - GASHORA",
+    "origin": "SAKE",
+    "destination": "GASHORA",
+    "fare": 871,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 215,
+    "route": "NYAMATA - RAMIRO",
+    "origin": "NYAMATA",
+    "destination": "RAMIRO",
+    "fare": 990,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 216,
+    "route": "NYANZA (KICUKIRO) - NYAMATA",
+    "origin": "NYANZA (KICUKIRO)",
+    "destination": "NYAMATA",
+    "fare": 1029,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 217,
+    "route": "SAKE - RAMIRO",
+    "origin": "SAKE",
+    "destination": "RAMIRO",
+    "fare": 1109,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 218,
+    "route": "ZAZA - GASHORA",
+    "origin": "ZAZA",
+    "destination": "GASHORA",
+    "fare": 1346,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 219,
+    "route": "NYAMATA - KABUKUBA",
+    "origin": "NYAMATA",
+    "destination": "KABUKUBA",
+    "fare": 1445,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 220,
+    "route": "NYAMATA - RILIMA",
+    "origin": "NYAMATA",
+    "destination": "RILIMA",
+    "fare": 1465,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 221,
+    "route": "ZAZA - RAMIRO",
+    "origin": "ZAZA",
+    "destination": "RAMIRO",
+    "fare": 1585,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 222,
+    "route": "NYAMATA - BATIMA",
+    "origin": "NYAMATA",
+    "destination": "BATIMA",
+    "fare": 1702,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 223,
+    "route": "NYAMATA - RUHUHA via GAHEMBE",
+    "origin": "NYAMATA",
+    "destination": "RUHUHA via GAHEMBE",
+    "fare": 1822,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 224,
+    "route": "SAKE - NYAMATA",
+    "origin": "SAKE",
+    "destination": "NYAMATA",
+    "fare": 2000,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 225,
+    "route": "BUSORO - NYANZA (SOUTH)",
+    "origin": "BUSORO",
+    "destination": "NYANZA (SOUTH)",
+    "fare": 2019,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 226,
+    "route": "NYAMATA - NEMBA",
+    "origin": "NYAMATA",
+    "destination": "NEMBA",
+    "fare": 2118,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 227,
+    "route": "NGOMA - GASHORA",
+    "origin": "NGOMA",
+    "destination": "GASHORA",
+    "fare": 2139,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 228,
+    "route": "NYANZA (KICUKIRO) - RAMIRO",
+    "origin": "NYANZA (KICUKIRO)",
+    "destination": "RAMIRO",
+    "fare": 2198,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 229,
+    "route": "NYANZA (KICUKIRO) - GASHORA",
+    "origin": "NYANZA (KICUKIRO)",
+    "destination": "GASHORA",
+    "fare": 2297,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 230,
+    "route": "NYANZA (KICUKIRO) - RILIMA",
+    "origin": "NYANZA (KICUKIRO)",
+    "destination": "RILIMA",
+    "fare": 2297,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 231,
+    "route": "NGOMA - RAMIRO",
+    "origin": "NGOMA",
+    "destination": "RAMIRO",
+    "fare": 2357,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 232,
+    "route": "NYANZA (KICUKIRO) - BATIMA",
+    "origin": "NYANZA (KICUKIRO)",
+    "destination": "BATIMA",
+    "fare": 2456,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 233,
+    "route": "NYAMATA - RUHUHA via KAMABUYE",
+    "origin": "NYAMATA",
+    "destination": "RUHUHA via KAMABUYE",
+    "fare": 2456,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 234,
+    "route": "ZAZA - NYAMATA",
+    "origin": "ZAZA",
+    "destination": "NYAMATA",
+    "fare": 2474,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 235,
+    "route": "NYANZA (KICUKIRO) - RUHUHA via GAHEMBE",
+    "origin": "NYANZA (KICUKIRO)",
+    "destination": "RUHUHA via GAHEMBE",
+    "fare": 2515,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 236,
+    "route": "NYANZA (KICUKIRO) - KABUKUBA",
+    "origin": "NYANZA (KICUKIRO)",
+    "destination": "KABUKUBA",
+    "fare": 2752,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 237,
+    "route": "NYAMATA - NYANZA (SOUTH)",
+    "origin": "NYAMATA",
+    "destination": "NYANZA (SOUTH)",
+    "fare": 2871,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 238,
+    "route": "NYANZA (KICUKIRO) - NEMBA",
+    "origin": "NYANZA (KICUKIRO)",
+    "destination": "NEMBA",
+    "fare": 3168,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 239,
+    "route": "BUSORO - HUYE",
+    "origin": "BUSORO",
+    "destination": "HUYE",
+    "fare": 3207,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 240,
+    "route": "NGOMA - NYAMATA Via Zaza",
+    "origin": "NGOMA",
+    "destination": "NYAMATA Via Zaza",
+    "fare": 3267,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 241,
+    "route": "NYANZA (KICUKIRO) - RUHUHA via KAMABUYE",
+    "origin": "NYANZA (KICUKIRO)",
+    "destination": "RUHUHA via KAMABUYE",
+    "fare": 3901,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 242,
+    "route": "NYAMATA - HUYE",
+    "origin": "NYAMATA",
+    "destination": "HUYE",
+    "fare": 3921,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 243,
+    "route": "NYANZA (KICUKIRO) - SAKE",
+    "origin": "NYANZA (KICUKIRO)",
+    "destination": "SAKE",
+    "fare": 4138,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 244,
+    "route": "NYANZA (KICUKIRO) - ZAZA",
+    "origin": "NYANZA (KICUKIRO)",
+    "destination": "ZAZA",
+    "fare": 5049,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 245,
+    "route": "HUYE - GISAGARA",
+    "origin": "HUYE",
+    "destination": "GISAGARA",
+    "fare": 653,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 246,
+    "route": "GASARENDA - KITABI",
+    "origin": "GASARENDA",
+    "destination": "KITABI",
+    "fare": 712,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 247,
+    "route": "RUHANGO - NYANZA",
+    "origin": "RUHANGO",
+    "destination": "NYANZA",
+    "fare": 753,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 248,
+    "route": "NYAMAGABE - GASARENDA",
+    "origin": "NYAMAGABE",
+    "destination": "GASARENDA",
+    "fare": 852,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 249,
+    "route": "NYABUGOGO - KAMONYI (KU MASUKA)",
+    "origin": "NYABUGOGO",
+    "destination": "KAMONYI (KU MASUKA)",
+    "fare": 914,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 250,
+    "route": "NYAMAGABE - MANWARI -KADUHA",
+    "origin": "NYAMAGABE",
+    "destination": "MANWARI -KADUHA",
+    "fare": 930,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 251,
+    "route": "RUHANGO - BUHANDA",
+    "origin": "RUHANGO",
+    "destination": "BUHANDA",
+    "fare": 1069,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 252,
+    "route": "BUHANDA - NYANZA via MPANGA",
+    "origin": "BUHANDA",
+    "destination": "NYANZA via MPANGA",
+    "fare": 1069,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 253,
+    "route": "MUHANGA - RUHANGO",
+    "origin": "MUHANGA",
+    "destination": "RUHANGO",
+    "fare": 1089,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 254,
+    "route": "HUYE - NYAMAGABE",
+    "origin": "HUYE",
+    "destination": "NYAMAGABE",
+    "fare": 1109,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 255,
+    "route": "HUYE - KIBEHO",
+    "origin": "HUYE",
+    "destination": "KIBEHO",
+    "fare": 1247,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 256,
+    "route": "NYABUGOGO - RUGARIKA",
+    "origin": "NYABUGOGO",
+    "destination": "RUGARIKA",
+    "fare": 1287,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 257,
+    "route": "PINDURA - BWEYEYE",
+    "origin": "PINDURA",
+    "destination": "BWEYEYE",
+    "fare": 1287,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 258,
+    "route": "NYAMAGABE - KITABI",
+    "origin": "NYAMAGABE",
+    "destination": "KITABI",
+    "fare": 1367,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 259,
+    "route": "HUYE - AKANYARU (HAUT)",
+    "origin": "HUYE",
+    "destination": "AKANYARU (HAUT)",
+    "fare": 1406,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 260,
+    "route": "MUHANGA - REMERA RUKOMA",
+    "origin": "MUHANGA",
+    "destination": "REMERA RUKOMA",
+    "fare": 1406,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 261,
+    "route": "NYANZA - HUYE",
+    "origin": "NYANZA",
+    "destination": "HUYE",
+    "fare": 1465,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 262,
+    "route": "HUYE - NDAGO",
+    "origin": "HUYE",
+    "destination": "NDAGO",
+    "fare": 1544,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 263,
+    "route": "MUHANGA - MUGINA",
+    "origin": "MUHANGA",
+    "destination": "MUGINA",
+    "fare": 1544,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 264,
+    "route": "MUHANGA - NYANZA",
+    "origin": "MUHANGA",
+    "destination": "NYANZA",
+    "fare": 1624,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 265,
+    "route": "NYAMAGABE - MUSHUBI",
+    "origin": "NYAMAGABE",
+    "destination": "MUSHUBI",
+    "fare": 1663,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 266,
+    "route": "HUYE - GAKOMA via SAVE",
+    "origin": "HUYE",
+    "destination": "GAKOMA via SAVE",
+    "fare": 1723,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 267,
+    "route": "MUHANGA - BUHANDA via RUHANGO",
+    "origin": "MUHANGA",
+    "destination": "BUHANDA via RUHANGO",
+    "fare": 1822,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 268,
+    "route": "MUHANGA - KINAZI",
+    "origin": "MUHANGA",
+    "destination": "KINAZI",
+    "fare": 1842,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 269,
+    "route": "HUYE - GASARENDA",
+    "origin": "HUYE",
+    "destination": "GASARENDA",
+    "fare": 1921,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 270,
+    "route": "RUHANGO - BIRAMBO",
+    "origin": "RUHANGO",
+    "destination": "BIRAMBO",
+    "fare": 1980,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 271,
+    "route": "HUYE - GAKOMA via GISAGARA",
+    "origin": "HUYE",
+    "destination": "GAKOMA via GISAGARA",
+    "fare": 1980,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 272,
+    "route": "HUYE - GIKONKO (Via Save)",
+    "origin": "HUYE",
+    "destination": "GIKONKO (Via Save)",
+    "fare": 1980,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 273,
+    "route": "HUYE - MUNINI via KIBEHO",
+    "origin": "HUYE",
+    "destination": "MUNINI via KIBEHO",
+    "fare": 2000,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 274,
+    "route": "KAMEMBE - PINDURA",
+    "origin": "KAMEMBE",
+    "destination": "PINDURA",
+    "fare": 2019,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 275,
+    "route": "NYABUGOGO - MUHANGA",
+    "origin": "NYABUGOGO",
+    "destination": "MUHANGA",
+    "fare": 2040,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 276,
+    "route": "NYABUGOGO - REMERA RUKOMA",
+    "origin": "NYABUGOGO",
+    "destination": "REMERA RUKOMA",
+    "fare": 2099,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 277,
+    "route": "RUHANGO - HUYE",
+    "origin": "RUHANGO",
+    "destination": "HUYE",
+    "fare": 2118,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 278,
+    "route": "HUYE - MUGOMBWA",
+    "origin": "HUYE",
+    "destination": "MUGOMBWA",
+    "fare": 2118,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 279,
+    "route": "NYABUGOGO - KAYENZI (KAMONYI)",
+    "origin": "NYABUGOGO",
+    "destination": "KAYENZI (KAMONYI)",
+    "fare": 2139,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 280,
+    "route": "NYABUGOGO - KINAZI via MUGINA",
+    "origin": "NYABUGOGO",
+    "destination": "KINAZI via MUGINA",
+    "fare": 2178,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 281,
+    "route": "MUHANGA - NYABIKENKE via CYEZA",
+    "origin": "MUHANGA",
+    "destination": "NYABIKENKE via CYEZA",
+    "fare": 2237,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 282,
+    "route": "NYANZA - NYAMAGABE",
+    "origin": "NYANZA",
+    "destination": "NYAMAGABE",
+    "fare": 2474,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 283,
+    "route": "HUYE - KITABI",
+    "origin": "HUYE",
+    "destination": "KITABI",
+    "fare": 2495,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 284,
+    "route": "HUYE - AKANYARU (BAS)",
+    "origin": "HUYE",
+    "destination": "AKANYARU (BAS)",
+    "fare": 2515,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 285,
+    "route": "HUYE - MUNINI via CYAHINDA",
+    "origin": "HUYE",
+    "destination": "MUNINI via CYAHINDA",
+    "fare": 2653,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 286,
+    "route": "NYAMAGABE - PINDURA",
+    "origin": "NYAMAGABE",
+    "destination": "PINDURA",
+    "fare": 2772,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 287,
+    "route": "HUYE - MUSHUBI",
+    "origin": "HUYE",
+    "destination": "MUSHUBI",
+    "fare": 2791,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 288,
+    "route": "HUYE - AGATUNDA Via MUGOMBWA",
+    "origin": "HUYE",
+    "destination": "AGATUNDA Via MUGOMBWA",
+    "fare": 2970,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 289,
+    "route": "NYABUGOGO - RUHANGO",
+    "origin": "NYABUGOGO",
+    "destination": "RUHANGO",
+    "fare": 2950,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 290,
+    "route": "MUHANGA - HUYE",
+    "origin": "MUHANGA",
+    "destination": "HUYE",
+    "fare": 3089,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 291,
+    "route": "RUHANGO - KADUHA",
+    "origin": "RUHANGO",
+    "destination": "KADUHA",
+    "fare": 3089,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 292,
+    "route": "NYANZA - GASARENDA",
+    "origin": "NYANZA",
+    "destination": "GASARENDA",
+    "fare": 3148,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 293,
+    "route": "RUHANGO - NYAMAGABE",
+    "origin": "RUHANGO",
+    "destination": "NYAMAGABE",
+    "fare": 3228,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 294,
+    "route": "KAMEMBE - BWEYEYE",
+    "origin": "KAMEMBE",
+    "destination": "BWEYEYE",
+    "fare": 3326,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 295,
+    "route": "NYABUGOGO - BUHANDA via BYIMANA",
+    "origin": "NYABUGOGO",
+    "destination": "BUHANDA via BYIMANA",
+    "fare": 3347,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 296,
+    "route": "KITABI - KAMEMBE",
+    "origin": "KITABI",
+    "destination": "KAMEMBE",
+    "fare": 3446,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 297,
+    "route": "NYABUGOGO - NYANZA",
+    "origin": "NYABUGOGO",
+    "destination": "NYANZA",
+    "fare": 3664,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 298,
+    "route": "NYANZA - KITABI",
+    "origin": "NYANZA",
+    "destination": "KITABI",
+    "fare": 3861,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 299,
+    "route": "HUYE - PINDURA",
+    "origin": "HUYE",
+    "destination": "PINDURA",
+    "fare": 3901,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 300,
+    "route": "RUHANGO - GASARENDA",
+    "origin": "RUHANGO",
+    "destination": "GASARENDA",
+    "fare": 3960,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 301,
+    "route": "HUYE - NYABIMATA (Via KIBEHO)",
+    "origin": "HUYE",
+    "destination": "NYABIMATA (Via KIBEHO)",
+    "fare": 3960,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 302,
+    "route": "HUYE - RUHERU (Via KIBEHO)",
+    "origin": "HUYE",
+    "destination": "RUHERU (Via KIBEHO)",
+    "fare": 3960,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 303,
+    "route": "NYAMAGABE - BWEYEYE",
+    "origin": "NYAMAGABE",
+    "destination": "BWEYEYE",
+    "fare": 4079,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 304,
+    "route": "MUHANGA - NYAMAGABE",
+    "origin": "MUHANGA",
+    "destination": "NYAMAGABE",
+    "fare": 4158,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 305,
+    "route": "GASARENDA - KAMEMBE",
+    "origin": "GASARENDA",
+    "destination": "KAMEMBE",
+    "fare": 4158,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 306,
+    "route": "NYABUGOGO - BUHANDA via RUHANGO",
+    "origin": "NYABUGOGO",
+    "destination": "BUHANDA via RUHANGO",
+    "fare": 4316,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 307,
+    "route": "NYABUGOGO - BIRAMBO VIA BYIMANA",
+    "origin": "NYABUGOGO",
+    "destination": "BIRAMBO VIA BYIMANA",
+    "fare": 4415,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 308,
+    "route": "MUHANGA - GASARENDA",
+    "origin": "MUHANGA",
+    "destination": "GASARENDA",
+    "fare": 4911,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 309,
+    "route": "NYABUGOGO - BIRAMBO via RUHANGO",
+    "origin": "NYABUGOGO",
+    "destination": "BIRAMBO via RUHANGO",
+    "fare": 4950,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 310,
+    "route": "NYAMAGABE - KAMEMBE",
+    "origin": "NYAMAGABE",
+    "destination": "KAMEMBE",
+    "fare": 4990,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 311,
+    "route": "NYABUGOGO - HUYE",
+    "origin": "NYABUGOGO",
+    "destination": "HUYE",
+    "fare": 5068,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 312,
+    "route": "HUYE - BWEYEYE",
+    "origin": "HUYE",
+    "destination": "BWEYEYE",
+    "fare": 5187,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 313,
+    "route": "MUHANGA - KITABI",
+    "origin": "MUHANGA",
+    "destination": "KITABI",
+    "fare": 5623,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 314,
+    "route": "NYABUGOGO - KADUHA via RUHANGO",
+    "origin": "NYABUGOGO",
+    "destination": "KADUHA via RUHANGO",
+    "fare": 5940,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 315,
+    "route": "NYABUGOGO - KADUHA via BYIMANA",
+    "origin": "NYABUGOGO",
+    "destination": "KADUHA via BYIMANA",
+    "fare": 6019,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 316,
+    "route": "HUYE - KAMEMBE",
+    "origin": "HUYE",
+    "destination": "KAMEMBE",
+    "fare": 6198,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 317,
+    "route": "NYABUGOGO - NYAMAGABE",
+    "origin": "NYABUGOGO",
+    "destination": "NYAMAGABE",
+    "fare": 6653,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 318,
+    "route": "NYABUGOGO - GASARENDA",
+    "origin": "NYABUGOGO",
+    "destination": "GASARENDA",
+    "fare": 6871,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 319,
+    "route": "NYANZA - KAMEMBE",
+    "origin": "NYANZA",
+    "destination": "KAMEMBE",
+    "fare": 7306,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 320,
+    "route": "NYABUGOGO - KITABI",
+    "origin": "NYABUGOGO",
+    "destination": "KITABI",
+    "fare": 7563,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 321,
+    "route": "RUHANGO - KAMEMBE",
+    "origin": "RUHANGO",
+    "destination": "KAMEMBE",
+    "fare": 8514,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 322,
+    "route": "NYABUGOGO - MUSHUBI",
+    "origin": "NYABUGOGO",
+    "destination": "MUSHUBI",
+    "fare": 9524,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 323,
+    "route": "MUHANGA - KAMEMBE via HUYE",
+    "origin": "MUHANGA",
+    "destination": "KAMEMBE via HUYE",
+    "fare": 9603,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 324,
+    "route": "NYABUGOGO - PINDURA",
+    "origin": "NYABUGOGO",
+    "destination": "PINDURA",
+    "fare": 10930,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 325,
+    "route": "NYABUGOGO - KAMEMBE via HUYE",
+    "origin": "NYABUGOGO",
+    "destination": "KAMEMBE via HUYE",
+    "fare": 11445,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 326,
+    "route": "RUFUNGO - RAMBURA",
+    "origin": "RUFUNGO",
+    "destination": "RAMBURA",
+    "fare": 218,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 327,
+    "route": "MUBUGA - GISHYITA",
+    "origin": "MUBUGA",
+    "destination": "GISHYITA",
+    "fare": 257,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 328,
+    "route": "HANIKA - KIRAMBO",
+    "origin": "HANIKA",
+    "destination": "KIRAMBO",
+    "fare": 297,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 329,
+    "route": "TYAZO - NYAMASHEKE",
+    "origin": "TYAZO",
+    "destination": "NYAMASHEKE",
+    "fare": 337,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 330,
+    "route": "KARENGERA - HANIKA",
+    "origin": "KARENGERA",
+    "destination": "HANIKA",
+    "fare": 377,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 331,
+    "route": "NYANGE - RUFUNGO",
+    "origin": "NYANGE",
+    "destination": "RUFUNGO",
+    "fare": 416,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 332,
+    "route": "GISHYITA - MUGONERO",
+    "origin": "GISHYITA",
+    "destination": "MUGONERO",
+    "fare": 416,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 333,
+    "route": "HANIKA - TYAZO",
+    "origin": "HANIKA",
+    "destination": "TYAZO",
+    "fare": 416,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 334,
+    "route": "KIRAMBO - NYAMASHEKE",
+    "origin": "KIRAMBO",
+    "destination": "NYAMASHEKE",
+    "fare": 455,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 335,
+    "route": "MUHANGA - NYARUSANGE",
+    "origin": "MUHANGA",
+    "destination": "NYARUSANGE",
+    "fare": 614,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 336,
+    "route": "NYANGE - RAMBURA",
+    "origin": "NYANGE",
+    "destination": "RAMBURA",
+    "fare": 634,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 337,
+    "route": "NYARUSANGE - NYANGE",
+    "origin": "NYARUSANGE",
+    "destination": "NYANGE",
+    "fare": 673,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 338,
+    "route": "RAMBURA - RUBENGERA",
+    "origin": "RAMBURA",
+    "destination": "RUBENGERA",
+    "fare": 673,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 339,
+    "route": "RUBENGERA - KARONGI",
+    "origin": "RUBENGERA",
+    "destination": "KARONGI",
+    "fare": 673,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 340,
+    "route": "MUBUGA - MUGONERO",
+    "origin": "MUBUGA",
+    "destination": "MUGONERO",
+    "fare": 673,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 341,
+    "route": "KARENGERA - KIRAMBO",
+    "origin": "KARENGERA",
+    "destination": "KIRAMBO",
+    "fare": 673,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 342,
+    "route": "MUGONERO - KARENGERA",
+    "origin": "MUGONERO",
+    "destination": "KARENGERA",
+    "fare": 712,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 343,
+    "route": "KARONGI - MUBUGA",
+    "origin": "KARONGI",
+    "destination": "MUBUGA",
+    "fare": 753,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 344,
+    "route": "HANIKA - NYAMASHEKE",
+    "origin": "HANIKA",
+    "destination": "NYAMASHEKE",
+    "fare": 753,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 345,
+    "route": "KARENGERA - TYAZO",
+    "origin": "KARENGERA",
+    "destination": "TYAZO",
+    "fare": 792,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 346,
+    "route": "KAMEMBE - BUSHENGE",
+    "origin": "KAMEMBE",
+    "destination": "BUSHENGE",
+    "fare": 852,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 347,
+    "route": "RUFUNGO - RUBENGERA",
+    "origin": "RUFUNGO",
+    "destination": "RUBENGERA",
+    "fare": 891,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 348,
+    "route": "KARONGI - GISHYITA",
+    "origin": "KARONGI",
+    "destination": "GISHYITA",
+    "fare": 1069,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 349,
+    "route": "NYARUSANGE - RUFUNGO",
+    "origin": "NYARUSANGE",
+    "destination": "RUFUNGO",
+    "fare": 1089,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 350,
+    "route": "MUGONERO - HANIKA",
+    "origin": "MUGONERO",
+    "destination": "HANIKA",
+    "fare": 1089,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 351,
+    "route": "GISHYITA - KARENGERA",
+    "origin": "GISHYITA",
+    "destination": "KARENGERA",
+    "fare": 1128,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 352,
+    "route": "KARENGERA - NYAMASHEKE",
+    "origin": "KARENGERA",
+    "destination": "NYAMASHEKE",
+    "fare": 1128,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 353,
+    "route": "MUHANGA - NYANGE",
+    "origin": "MUHANGA",
+    "destination": "NYANGE",
+    "fare": 1188,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 354,
+    "route": "NYARUSANGE - RAMBURA",
+    "origin": "NYARUSANGE",
+    "destination": "RAMBURA",
+    "fare": 1307,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 355,
+    "route": "NYANGE - RUBENGERA",
+    "origin": "NYANGE",
+    "destination": "RUBENGERA",
+    "fare": 1307,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 356,
+    "route": "RAMBURA - CONGO NILE",
+    "origin": "RAMBURA",
+    "destination": "CONGO NILE",
+    "fare": 1326,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 357,
+    "route": "MUBUGA - KARENGERA",
+    "origin": "MUBUGA",
+    "destination": "KARENGERA",
+    "fare": 1367,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 358,
+    "route": "MUGONERO - KIRAMBO",
+    "origin": "MUGONERO",
+    "destination": "KIRAMBO",
+    "fare": 1367,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 359,
+    "route": "KARONGI - MUGONERO",
+    "origin": "KARONGI",
+    "destination": "MUGONERO",
+    "fare": 1406,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 360,
+    "route": "RAMBURA - KARONGI",
+    "origin": "RAMBURA",
+    "destination": "KARONGI",
+    "fare": 1426,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 361,
+    "route": "NYAMASHEKE - KAMEMBE",
+    "origin": "NYAMASHEKE",
+    "destination": "KAMEMBE",
+    "fare": 1445,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 362,
+    "route": "RUBENGERA - MUBUGA",
+    "origin": "RUBENGERA",
+    "destination": "MUBUGA",
+    "fare": 1465,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 363,
+    "route": "GISHYITA - HANIKA",
+    "origin": "GISHYITA",
+    "destination": "HANIKA",
+    "fare": 1505,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 364,
+    "route": "MUGONERO - TYAZO",
+    "origin": "MUGONERO",
+    "destination": "TYAZO",
+    "fare": 1505,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 365,
+    "route": "MUSHUBATI - NYANGE",
+    "origin": "MUSHUBATI",
+    "destination": "NYANGE",
+    "fare": 1624,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 366,
+    "route": "RUFUNGO - KARONGI",
+    "origin": "RUFUNGO",
+    "destination": "KARONGI",
+    "fare": 1643,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 367,
+    "route": "MUHANGA - RUFUNGO",
+    "origin": "MUHANGA",
+    "destination": "RUFUNGO",
+    "fare": 1702,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 368,
+    "route": "RUBENGERA - GISHYITA",
+    "origin": "RUBENGERA",
+    "destination": "GISHYITA",
+    "fare": 1702,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 369,
+    "route": "MUBUGA - HANIKA",
+    "origin": "MUBUGA",
+    "destination": "HANIKA",
+    "fare": 1742,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 370,
+    "route": "GISHYITA - KIRAMBO",
+    "origin": "GISHYITA",
+    "destination": "KIRAMBO",
+    "fare": 1782,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 371,
+    "route": "MUGONERO - NYAMASHEKE",
+    "origin": "MUGONERO",
+    "destination": "NYAMASHEKE",
+    "fare": 1822,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 372,
+    "route": "TYAZO - KAMEMBE",
+    "origin": "TYAZO",
+    "destination": "KAMEMBE",
+    "fare": 1822,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 373,
+    "route": "KARONGI - KARENGERA",
+    "origin": "KARONGI",
+    "destination": "KARENGERA",
+    "fare": 1900,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 374,
+    "route": "GISHYITA - TYAZO",
+    "origin": "GISHYITA",
+    "destination": "TYAZO",
+    "fare": 1921,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 375,
+    "route": "KIRAMBO - KAMEMBE",
+    "origin": "KIRAMBO",
+    "destination": "KAMEMBE",
+    "fare": 1921,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 376,
+    "route": "KAMEMBE - BUGARAMA",
+    "origin": "KAMEMBE",
+    "destination": "BUGARAMA",
+    "fare": 1921,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 377,
+    "route": "NYARUSANGE - RUBENGERA",
+    "origin": "NYARUSANGE",
+    "destination": "RUBENGERA",
+    "fare": 1960,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 378,
+    "route": "NYANGE - CONGO NILE",
+    "origin": "NYANGE",
+    "destination": "CONGO NILE",
+    "fare": 1960,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 379,
+    "route": "NYANGE - KARONGI",
+    "origin": "NYANGE",
+    "destination": "KARONGI",
+    "fare": 2040,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 380,
+    "route": "MUBUGA - KIRAMBO",
+    "origin": "MUBUGA",
+    "destination": "KIRAMBO",
+    "fare": 2040,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 381,
+    "route": "MUHANGA - RAMBURA",
+    "origin": "MUHANGA",
+    "destination": "RAMBURA",
+    "fare": 2059,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 382,
+    "route": "RAMBURA - MUBUGA",
+    "origin": "RAMBURA",
+    "destination": "MUBUGA",
+    "fare": 2118,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 383,
+    "route": "RUBENGERA - MUGONERO",
+    "origin": "RUBENGERA",
+    "destination": "MUGONERO",
+    "fare": 2118,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 384,
+    "route": "MUBUGA - TYAZO",
+    "origin": "MUBUGA",
+    "destination": "TYAZO",
+    "fare": 2158,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 385,
+    "route": "KAMEMBE - CIMERWA",
+    "origin": "KAMEMBE",
+    "destination": "CIMERWA",
+    "fare": 2178,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 386,
+    "route": "KAMEMBE - NTANGO",
+    "origin": "KAMEMBE",
+    "destination": "NTANGO",
+    "fare": 2198,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 387,
+    "route": "GISHYITA - NYAMASHEKE",
+    "origin": "GISHYITA",
+    "destination": "NYAMASHEKE",
+    "fare": 2237,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 388,
+    "route": "HANIKA - KAMEMBE",
+    "origin": "HANIKA",
+    "destination": "KAMEMBE",
+    "fare": 2258,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 389,
+    "route": "RUFUNGO - MUBUGA",
+    "origin": "RUFUNGO",
+    "destination": "MUBUGA",
+    "fare": 2336,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 390,
+    "route": "RAMBURA - GISHYITA",
+    "origin": "RAMBURA",
+    "destination": "GISHYITA",
+    "fare": 2376,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 391,
+    "route": "MUBUGA - NYAMASHEKE",
+    "origin": "MUBUGA",
+    "destination": "NYAMASHEKE",
+    "fare": 2495,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 392,
+    "route": "NYABUGOGO - NYARUSANGE",
+    "origin": "NYABUGOGO",
+    "destination": "NYARUSANGE",
+    "fare": 2573,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 393,
+    "route": "RUFUNGO - GISHYITA",
+    "origin": "RUFUNGO",
+    "destination": "GISHYITA",
+    "fare": 2594,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 394,
+    "route": "KARONGI - HANIKA",
+    "origin": "KARONGI",
+    "destination": "HANIKA",
+    "fare": 2594,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 395,
+    "route": "KARENGERA - KAMEMBE",
+    "origin": "KARENGERA",
+    "destination": "KAMEMBE",
+    "fare": 2614,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 396,
+    "route": "NYARUSANGE - CONGO NILE",
+    "origin": "NYARUSANGE",
+    "destination": "CONGO NILE",
+    "fare": 2633,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 397,
+    "route": "MUHANGA - RUBENGERA",
+    "origin": "MUHANGA",
+    "destination": "RUBENGERA",
+    "fare": 2674,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 398,
+    "route": "NYARUSANGE - KARONGI",
+    "origin": "NYARUSANGE",
+    "destination": "KARONGI",
+    "fare": 2713,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 399,
+    "route": "NYANGE - MUBUGA",
+    "origin": "NYANGE",
+    "destination": "MUBUGA",
+    "fare": 2752,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 400,
+    "route": "KARONGI - KIRAMBO",
+    "origin": "KARONGI",
+    "destination": "KIRAMBO",
+    "fare": 2752,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 401,
+    "route": "RAMBURA - MUGONERO",
+    "origin": "RAMBURA",
+    "destination": "MUGONERO",
+    "fare": 2791,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 402,
+    "route": "RUBENGERA - KARENGERA",
+    "origin": "RUBENGERA",
+    "destination": "KARENGERA",
+    "fare": 2832,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 403,
+    "route": "KARONGI - TYAZO",
+    "origin": "KARONGI",
+    "destination": "TYAZO",
+    "fare": 2832,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 404,
+    "route": "MUHANGA - MUSHUBATI",
+    "origin": "MUHANGA",
+    "destination": "MUSHUBATI",
+    "fare": 2911,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 405,
+    "route": "KARONGI - NYAMASHEKE",
+    "origin": "KARONGI",
+    "destination": "NYAMASHEKE",
+    "fare": 2989,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 406,
+    "route": "NYANGE - GISHYITA",
+    "origin": "NYANGE",
+    "destination": "GISHYITA",
+    "fare": 3009,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 407,
+    "route": "RUFUNGO - MUGONERO",
+    "origin": "RUFUNGO",
+    "destination": "MUGONERO",
+    "fare": 3009,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 408,
+    "route": "RUBENGERA - HANIKA",
+    "origin": "RUBENGERA",
+    "destination": "HANIKA",
+    "fare": 3207,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 409,
+    "route": "MUHANGA - CONGO NILE",
+    "origin": "MUHANGA",
+    "destination": "CONGO NILE",
+    "fare": 3267,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 410,
+    "route": "NYABUGOGO - NYANGE",
+    "origin": "NYABUGOGO",
+    "destination": "NYANGE",
+    "fare": 3366,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 411,
+    "route": "MUGONERO - KAMEMBE",
+    "origin": "MUGONERO",
+    "destination": "KAMEMBE",
+    "fare": 3405,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 412,
+    "route": "NYARUSANGE - MUBUGA",
+    "origin": "NYARUSANGE",
+    "destination": "MUBUGA",
+    "fare": 3425,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 413,
+    "route": "NYANGE - MUGONERO",
+    "origin": "NYANGE",
+    "destination": "MUGONERO",
+    "fare": 3425,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 414,
+    "route": "RUBENGERA - KIRAMBO",
+    "origin": "RUBENGERA",
+    "destination": "KIRAMBO",
+    "fare": 3485,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 415,
+    "route": "RAMBURA - KARENGERA",
+    "origin": "RAMBURA",
+    "destination": "KARENGERA",
+    "fare": 3505,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 416,
+    "route": "KARONGI - NTENDEZI",
+    "origin": "KARONGI",
+    "destination": "NTENDEZI",
+    "fare": 3604,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 417,
+    "route": "RUBENGERA - TYAZO",
+    "origin": "RUBENGERA",
+    "destination": "TYAZO",
+    "fare": 3623,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 418,
+    "route": "NYABUGOGO - RUFUNGO",
+    "origin": "NYABUGOGO",
+    "destination": "RUFUNGO",
+    "fare": 3643,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 419,
+    "route": "NYARUSANGE - GISHYITA",
+    "origin": "NYARUSANGE",
+    "destination": "GISHYITA",
+    "fare": 3664,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 420,
+    "route": "RUFUNGO - KARENGERA",
+    "origin": "RUFUNGO",
+    "destination": "KARENGERA",
+    "fare": 3722,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 421,
+    "route": "MUHANGA - KARONGI",
+    "origin": "MUHANGA",
+    "destination": "KARONGI",
+    "fare": 3742,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 422,
+    "route": "GISHYITA - KAMEMBE",
+    "origin": "GISHYITA",
+    "destination": "KAMEMBE",
+    "fare": 3781,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 423,
+    "route": "RAMBURA - HANIKA",
+    "origin": "RAMBURA",
+    "destination": "HANIKA",
+    "fare": 3880,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 424,
+    "route": "RUBENGERA - NYAMASHEKE",
+    "origin": "RUBENGERA",
+    "destination": "NYAMASHEKE",
+    "fare": 3960,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 425,
+    "route": "MUBUGA - KAMEMBE",
+    "origin": "MUBUGA",
+    "destination": "KAMEMBE",
+    "fare": 4020,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 426,
+    "route": "MUHANGA - MUBUGA",
+    "origin": "MUHANGA",
+    "destination": "MUBUGA",
+    "fare": 4039,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 427,
+    "route": "NYARUSANGE - MUGONERO",
+    "origin": "NYARUSANGE",
+    "destination": "MUGONERO",
+    "fare": 4079,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 428,
+    "route": "RUFUNGO - HANIKA",
+    "origin": "RUFUNGO",
+    "destination": "HANIKA",
+    "fare": 4079,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 429,
+    "route": "NYANGE - KARENGERA",
+    "origin": "NYANGE",
+    "destination": "KARENGERA",
+    "fare": 4119,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 430,
+    "route": "NYABUGOGO - RAMBURA",
+    "origin": "NYABUGOGO",
+    "destination": "RAMBURA",
+    "fare": 4138,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 431,
+    "route": "RAMBURA - KIRAMBO",
+    "origin": "RAMBURA",
+    "destination": "KIRAMBO",
+    "fare": 4158,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 432,
+    "route": "MUHANGA - GISHYITA",
+    "origin": "MUHANGA",
+    "destination": "GISHYITA",
+    "fare": 4296,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 433,
+    "route": "RAMBURA - TYAZO",
+    "origin": "RAMBURA",
+    "destination": "TYAZO",
+    "fare": 4296,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 434,
+    "route": "RUFUNGO - KIRAMBO",
+    "origin": "RUFUNGO",
+    "destination": "KIRAMBO",
+    "fare": 4376,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 435,
+    "route": "NYANGE - HANIKA",
+    "origin": "NYANGE",
+    "destination": "HANIKA",
+    "fare": 4495,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 436,
+    "route": "RUFUNGO - TYAZO",
+    "origin": "RUFUNGO",
+    "destination": "TYAZO",
+    "fare": 4495,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 437,
+    "route": "NYABUGOGO - RUBENGERA",
+    "origin": "NYABUGOGO",
+    "destination": "RUBENGERA",
+    "fare": 4535,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 438,
+    "route": "RAMBURA - NYAMASHEKE",
+    "origin": "RAMBURA",
+    "destination": "NYAMASHEKE",
+    "fare": 4613,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 439,
+    "route": "MUHANGA - MUGONERO",
+    "origin": "MUHANGA",
+    "destination": "MUGONERO",
+    "fare": 4712,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 440,
+    "route": "NYARUSANGE - KARENGERA",
+    "origin": "NYARUSANGE",
+    "destination": "KARENGERA",
+    "fare": 4792,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 441,
+    "route": "NYANGE - KIRAMBO",
+    "origin": "NYANGE",
+    "destination": "KIRAMBO",
+    "fare": 4792,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 442,
+    "route": "KARONGI - KAMEMBE",
+    "origin": "KARONGI",
+    "destination": "KAMEMBE",
+    "fare": 4792,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 443,
+    "route": "RUFUNGO - NYAMASHEKE",
+    "origin": "RUFUNGO",
+    "destination": "NYAMASHEKE",
+    "fare": 4831,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 444,
+    "route": "NYABUGOGO - MUSHUBATI",
+    "origin": "NYABUGOGO",
+    "destination": "MUSHUBATI",
+    "fare": 4870,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 445,
+    "route": "NYANGE - TYAZO",
+    "origin": "NYANGE",
+    "destination": "TYAZO",
+    "fare": 4911,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 446,
+    "route": "NYARUSANGE - HANIKA",
+    "origin": "NYARUSANGE",
+    "destination": "HANIKA",
+    "fare": 5168,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 447,
+    "route": "NYABUGOGO - CONGO NILE",
+    "origin": "NYABUGOGO",
+    "destination": "CONGO NILE",
+    "fare": 5208,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 448,
+    "route": "NYANGE - NYAMASHEKE",
+    "origin": "NYANGE",
+    "destination": "NYAMASHEKE",
+    "fare": 5247,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 449,
+    "route": "MUHANGA - KARENGERA",
+    "origin": "MUHANGA",
+    "destination": "KARENGERA",
+    "fare": 5405,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 450,
+    "route": "RUBENGERA - KAMEMBE",
+    "origin": "RUBENGERA",
+    "destination": "KAMEMBE",
+    "fare": 5445,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 451,
+    "route": "NYARUSANGE - KIRAMBO",
+    "origin": "NYARUSANGE",
+    "destination": "KIRAMBO",
+    "fare": 5465,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 452,
+    "route": "NYABUGOGO - KARONGI",
+    "origin": "NYABUGOGO",
+    "destination": "KARONGI",
+    "fare": 5504,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 453,
+    "route": "NYARUSANGE - TYAZO",
+    "origin": "NYARUSANGE",
+    "destination": "TYAZO",
+    "fare": 5584,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 454,
+    "route": "MUHANGA - HANIKA",
+    "origin": "MUHANGA",
+    "destination": "HANIKA",
+    "fare": 5782,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 455,
+    "route": "NYARUSANGE - NYAMASHEKE",
+    "origin": "NYARUSANGE",
+    "destination": "NYAMASHEKE",
+    "fare": 5920,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 456,
+    "route": "NYABUGOGO - MUBUGA",
+    "origin": "NYABUGOGO",
+    "destination": "MUBUGA",
+    "fare": 5980,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 457,
+    "route": "MUHANGA - KIRAMBO",
+    "origin": "MUHANGA",
+    "destination": "KIRAMBO",
+    "fare": 6079,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 458,
+    "route": "RAMBURA - KAMEMBE",
+    "origin": "RAMBURA",
+    "destination": "KAMEMBE",
+    "fare": 6118,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 459,
+    "route": "MUHANGA - TYAZO",
+    "origin": "MUHANGA",
+    "destination": "TYAZO",
+    "fare": 6198,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 460,
+    "route": "NYABUGOGO - GISHYITA",
+    "origin": "NYABUGOGO",
+    "destination": "GISHYITA",
+    "fare": 6237,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 461,
+    "route": "RUFUNGO - KAMEMBE",
+    "origin": "RUFUNGO",
+    "destination": "KAMEMBE",
+    "fare": 6336,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 462,
+    "route": "MUHANGA - NYAMASHEKE",
+    "origin": "MUHANGA",
+    "destination": "NYAMASHEKE",
+    "fare": 6534,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 463,
+    "route": "NYABUGOGO - MUGONERO",
+    "origin": "NYABUGOGO",
+    "destination": "MUGONERO",
+    "fare": 6653,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 464,
+    "route": "NYANGE - KAMEMBE",
+    "origin": "NYANGE",
+    "destination": "KAMEMBE",
+    "fare": 6752,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 465,
+    "route": "NYABUGOGO - KARENGERA",
+    "origin": "NYABUGOGO",
+    "destination": "KARENGERA",
+    "fare": 7365,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 466,
+    "route": "NYARUSANGE - KAMEMBE",
+    "origin": "NYARUSANGE",
+    "destination": "KAMEMBE",
+    "fare": 7406,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 467,
+    "route": "NYABUGOGO - HANIKA",
+    "origin": "NYABUGOGO",
+    "destination": "HANIKA",
+    "fare": 7742,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 468,
+    "route": "NYABUGOGO - KIRAMBO",
+    "origin": "NYABUGOGO",
+    "destination": "KIRAMBO",
+    "fare": 8019,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 469,
+    "route": "NYABUGOGO - TYAZO",
+    "origin": "NYABUGOGO",
+    "destination": "TYAZO",
+    "fare": 8158,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 470,
+    "route": "NYABUGOGO - NYAMASHEKE",
+    "origin": "NYABUGOGO",
+    "destination": "NYAMASHEKE",
+    "fare": 8474,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 471,
+    "route": "MUHANGA - KAMEMBE via KARONGI",
+    "origin": "MUHANGA",
+    "destination": "KAMEMBE via KARONGI",
+    "fare": 8534,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 472,
+    "route": "NYABUGOGO - KAMEMBE via KARONGI",
+    "origin": "NYABUGOGO",
+    "destination": "KAMEMBE via KARONGI",
+    "fare": 10296,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 473,
+    "route": "GATUMBA - NGORORERO",
+    "origin": "GATUMBA",
+    "destination": "NGORORERO",
+    "fare": 515,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 474,
+    "route": "BURINGA - GATUMBA",
+    "origin": "BURINGA",
+    "destination": "GATUMBA",
+    "fare": 712,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 475,
+    "route": "MUHANGA - BURINGA",
+    "origin": "MUHANGA",
+    "destination": "BURINGA",
+    "fare": 753,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 476,
+    "route": "KABAYA - MUKAMIRA",
+    "origin": "KABAYA",
+    "destination": "MUKAMIRA",
+    "fare": 1069,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 477,
+    "route": "BURINGA - NGORORERO",
+    "origin": "BURINGA",
+    "destination": "NGORORERO",
+    "fare": 1227,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 478,
+    "route": "NGORORERO - KABAYA",
+    "origin": "NGORORERO",
+    "destination": "KABAYA",
+    "fare": 1386,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 479,
+    "route": "MUHANGA - GATUMBA",
+    "origin": "MUHANGA",
+    "destination": "GATUMBA",
+    "fare": 1465,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 480,
+    "route": "GATUMBA - KABAYA",
+    "origin": "GATUMBA",
+    "destination": "KABAYA",
+    "fare": 1663,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 481,
+    "route": "KABAYA - KABALI",
+    "origin": "KABAYA",
+    "destination": "KABALI",
+    "fare": 1822,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 482,
+    "route": "MUHANGA - NGORORERO",
+    "origin": "MUHANGA",
+    "destination": "NGORORERO",
+    "fare": 1941,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 483,
+    "route": "NGORORERO - MUKAMIRA",
+    "origin": "NGORORERO",
+    "destination": "MUKAMIRA",
+    "fare": 2040,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 484,
+    "route": "MUHANGA - KIBANGU (Via Rugendabari)",
+    "origin": "MUHANGA",
+    "destination": "KIBANGU (Via Rugendabari)",
+    "fare": 2139,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 485,
+    "route": "KABAYA - MAHOKO",
+    "origin": "KABAYA",
+    "destination": "MAHOKO",
+    "fare": 2237,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 486,
+    "route": "BURINGA - KABAYA",
+    "origin": "BURINGA",
+    "destination": "KABAYA",
+    "fare": 2376,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 487,
+    "route": "KABAYA - RUBAVU",
+    "origin": "KABAYA",
+    "destination": "RUBAVU",
+    "fare": 2495,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 488,
+    "route": "NYABUGOGO - BURINGA",
+    "origin": "NYABUGOGO",
+    "destination": "BURINGA",
+    "fare": 2693,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 489,
+    "route": "NGORORERO - KABALI",
+    "origin": "NGORORERO",
+    "destination": "KABALI",
+    "fare": 2970,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 490,
+    "route": "MUHANGA - KABAYA",
+    "origin": "MUHANGA",
+    "destination": "KABAYA",
+    "fare": 3129,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 491,
+    "route": "NGORORERO - MAHOKO",
+    "origin": "NGORORERO",
+    "destination": "MAHOKO",
+    "fare": 3386,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 492,
+    "route": "NYABUGOGO - GATUMBA",
+    "origin": "NYABUGOGO",
+    "destination": "GATUMBA",
+    "fare": 3405,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 493,
+    "route": "BURINGA - MUKAMIRA",
+    "origin": "BURINGA",
+    "destination": "MUKAMIRA",
+    "fare": 3544,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 494,
+    "route": "GATUMBA - MUKAMIRA",
+    "origin": "GATUMBA",
+    "destination": "MUKAMIRA",
+    "fare": 3563,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 495,
+    "route": "NGORORERO - RUBAVU",
+    "origin": "NGORORERO",
+    "destination": "RUBAVU",
+    "fare": 3604,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 496,
+    "route": "BURINGA - KABALI",
+    "origin": "BURINGA",
+    "destination": "KABALI",
+    "fare": 4197,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 497,
+    "route": "GATUMBA - KABALI",
+    "origin": "GATUMBA",
+    "destination": "KABALI",
+    "fare": 4237,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 498,
+    "route": "MUHANGA - MUKAMIRA",
+    "origin": "MUHANGA",
+    "destination": "MUKAMIRA",
+    "fare": 4257,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 499,
+    "route": "NYABUGOGO - NGORORERO",
+    "origin": "NYABUGOGO",
+    "destination": "NGORORERO",
+    "fare": 4395,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 500,
+    "route": "MUHANGA - KABALI",
+    "origin": "MUHANGA",
+    "destination": "KABALI",
+    "fare": 4950,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 501,
+    "route": "NYABUGOGO - KABAYA",
+    "origin": "NYABUGOGO",
+    "destination": "KABAYA",
+    "fare": 5068,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 502,
+    "route": "BURINGA - RUBAVU",
+    "origin": "BURINGA",
+    "destination": "RUBAVU",
+    "fare": 5208,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 503,
+    "route": "GATUMBA - RUBAVU",
+    "origin": "GATUMBA",
+    "destination": "RUBAVU",
+    "fare": 5227,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 504,
+    "route": "MUHANGA - MAHOKO",
+    "origin": "MUHANGA",
+    "destination": "MAHOKO",
+    "fare": 5366,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 505,
+    "route": "MUHANGA - RUBAVU",
+    "origin": "MUHANGA",
+    "destination": "RUBAVU",
+    "fare": 5683,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 506,
+    "route": "NYABUGOGO - MUKAMIRA via MUHANGA",
+    "origin": "NYABUGOGO",
+    "destination": "MUKAMIRA via MUHANGA",
+    "fare": 6237,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 507,
+    "route": "KABALI - MAHOKO",
+    "origin": "KABALI",
+    "destination": "MAHOKO",
+    "fare": 337,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 508,
+    "route": "BYANGABO - MUKAMIRA",
+    "origin": "BYANGABO",
+    "destination": "MUKAMIRA",
+    "fare": 377,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 509,
+    "route": "MUKAMIRA - KABALI",
+    "origin": "MUKAMIRA",
+    "destination": "KABALI",
+    "fare": 712,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 510,
+    "route": "KABALI - RUBAVU",
+    "origin": "KABALI",
+    "destination": "RUBAVU",
+    "fare": 951,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 511,
+    "route": "MUKAMIRA - MAHOKO",
+    "origin": "MUKAMIRA",
+    "destination": "MAHOKO",
+    "fare": 1050,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 512,
+    "route": "BYANGABO - KABALI",
+    "origin": "BYANGABO",
+    "destination": "KABALI",
+    "fare": 1089,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 513,
+    "route": "BYANGABO - MAHOKO",
+    "origin": "BYANGABO",
+    "destination": "MAHOKO",
+    "fare": 1406,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 514,
+    "route": "MUKAMIRA - RUBAVU",
+    "origin": "MUKAMIRA",
+    "destination": "RUBAVU",
+    "fare": 1525,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 515,
+    "route": "RUBAVU - BUGESHI",
+    "origin": "RUBAVU",
+    "destination": "BUGESHI",
+    "fare": 1861,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 516,
+    "route": "RUBAVU - KABUHANGA",
+    "origin": "RUBAVU",
+    "destination": "KABUHANGA",
+    "fare": 1980,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 517,
+    "route": "GAKENKE - BYANGABO",
+    "origin": "GAKENKE",
+    "destination": "BYANGABO",
+    "fare": 2000,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 518,
+    "route": "BYANGABO - RUBAVU",
+    "origin": "BYANGABO",
+    "destination": "RUBAVU",
+    "fare": 2040,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 519,
+    "route": "BASE - BYANGABO",
+    "origin": "BASE",
+    "destination": "BYANGABO",
+    "fare": 2495,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 520,
+    "route": "BASE - MUKAMIRA",
+    "origin": "BASE",
+    "destination": "MUKAMIRA",
+    "fare": 2871,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 521,
+    "route": "GAKENKE - KABALI",
+    "origin": "GAKENKE",
+    "destination": "KABALI",
+    "fare": 3069,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 522,
+    "route": "GAKENKE - MAHOKO",
+    "origin": "GAKENKE",
+    "destination": "MAHOKO",
+    "fare": 3405,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 523,
+    "route": "BASE - KABALI",
+    "origin": "BASE",
+    "destination": "KABALI",
+    "fare": 3584,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 524,
+    "route": "BASE - MAHOKO",
+    "origin": "BASE",
+    "destination": "MAHOKO",
+    "fare": 3921,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 525,
+    "route": "GAKENKE - RUBAVU",
+    "origin": "GAKENKE",
+    "destination": "RUBAVU",
+    "fare": 4020,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 526,
+    "route": "NYABUGOGO - BYANGABO",
+    "origin": "NYABUGOGO",
+    "destination": "BYANGABO",
+    "fare": 4455,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 527,
+    "route": "BASE - RUBAVU",
+    "origin": "BASE",
+    "destination": "RUBAVU",
+    "fare": 4535,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 528,
+    "route": "NYABUGOGO - MUKAMIRA",
+    "origin": "NYABUGOGO",
+    "destination": "MUKAMIRA",
+    "fare": 4831,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 529,
+    "route": "MUSANZE - MUHANGA Via NGORORERO",
+    "origin": "MUSANZE",
+    "destination": "MUHANGA Via NGORORERO",
+    "fare": 5445,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 530,
+    "route": "NYABUGOGO - KABALI",
+    "origin": "NYABUGOGO",
+    "destination": "KABALI",
+    "fare": 5525,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 531,
+    "route": "NYABUGOGO - MAHOKO",
+    "origin": "NYABUGOGO",
+    "destination": "MAHOKO",
+    "fare": 5860,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 532,
+    "route": "NYABUGOGO - RUBAVU",
+    "origin": "NYABUGOGO",
+    "destination": "RUBAVU",
+    "fare": 6554,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 533,
+    "route": "NKOMERO - GISIZA",
+    "origin": "NKOMERO",
+    "destination": "GISIZA",
+    "fare": 257,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 534,
+    "route": "GISIZA - CONGO-NILE",
+    "origin": "GISIZA",
+    "destination": "CONGO-NILE",
+    "fare": 416,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 535,
+    "route": "RUBAVU - BRASSERIE",
+    "origin": "RUBAVU",
+    "destination": "BRASSERIE",
+    "fare": 416,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 536,
+    "route": "GAKERI - NKOMERO",
+    "origin": "GAKERI",
+    "destination": "NKOMERO",
+    "fare": 574,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 537,
+    "route": "NKOMERO - CONGO-NILE",
+    "origin": "NKOMERO",
+    "destination": "CONGO-NILE",
+    "fare": 653,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 538,
+    "route": "GAKERI - GISIZA",
+    "origin": "GAKERI",
+    "destination": "GISIZA",
+    "fare": 811,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 539,
+    "route": "CONGO-NILE - RUBENGERA",
+    "origin": "CONGO-NILE",
+    "destination": "RUBENGERA",
+    "fare": 990,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 540,
+    "route": "GISIZA - RUBENGERA",
+    "origin": "GISIZA",
+    "destination": "RUBENGERA",
+    "fare": 1109,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 541,
+    "route": "GAKERI - CONGO-NILE",
+    "origin": "GAKERI",
+    "destination": "CONGO-NILE",
+    "fare": 1227,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 542,
+    "route": "NKOMERO - RUBENGERA",
+    "origin": "NKOMERO",
+    "destination": "RUBENGERA",
+    "fare": 1367,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 543,
+    "route": "RUBAVU - GAKERI",
+    "origin": "RUBAVU",
+    "destination": "GAKERI",
+    "fare": 1604,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 544,
+    "route": "KARONGI - BIRAMBO",
+    "origin": "KARONGI",
+    "destination": "BIRAMBO",
+    "fare": 1663,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 545,
+    "route": "GISIZA - KARONGI",
+    "origin": "GISIZA",
+    "destination": "KARONGI",
+    "fare": 1861,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 546,
+    "route": "GAKERI - RUBENGERA",
+    "origin": "GAKERI",
+    "destination": "RUBENGERA",
+    "fare": 1921,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 547,
+    "route": "CONGO-NILE - KARONGI",
+    "origin": "CONGO-NILE",
+    "destination": "KARONGI",
+    "fare": 1980,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 548,
+    "route": "NKOMERO - KARONGI",
+    "origin": "NKOMERO",
+    "destination": "KARONGI",
+    "fare": 2099,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 549,
+    "route": "RUBAVU - KAYOVE",
+    "origin": "RUBAVU",
+    "destination": "KAYOVE",
+    "fare": 2118,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 550,
+    "route": "RUBAVU - NKOMERO",
+    "origin": "RUBAVU",
+    "destination": "NKOMERO",
+    "fare": 2158,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 551,
+    "route": "CONGO-NILE - MUBUGA",
+    "origin": "CONGO-NILE",
+    "destination": "MUBUGA",
+    "fare": 2158,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 552,
+    "route": "RUBAVU - NKORA via KIVUMU",
+    "origin": "RUBAVU",
+    "destination": "NKORA via KIVUMU",
+    "fare": 2178,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 553,
+    "route": "CONGO-NILE - GISHYITA",
+    "origin": "CONGO-NILE",
+    "destination": "GISHYITA",
+    "fare": 2396,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 554,
+    "route": "RUBAVU - GISIZA",
+    "origin": "RUBAVU",
+    "destination": "GISIZA",
+    "fare": 2416,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 555,
+    "route": "KARONGI - GISOVU via GISHYITA",
+    "origin": "KARONGI",
+    "destination": "GISOVU via GISHYITA",
+    "fare": 2416,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 556,
+    "route": "GISIZA - MUBUGA",
+    "origin": "GISIZA",
+    "destination": "MUBUGA",
+    "fare": 2573,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 557,
+    "route": "GAKERI - KARONGI",
+    "origin": "GAKERI",
+    "destination": "KARONGI",
+    "fare": 2674,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 558,
+    "route": "NKOMERO - MUBUGA",
+    "origin": "NKOMERO",
+    "destination": "MUBUGA",
+    "fare": 2812,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 559,
+    "route": "GISIZA - GISHYITA",
+    "origin": "GISIZA",
+    "destination": "GISHYITA",
+    "fare": 2812,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 560,
+    "route": "CONGO-NILE - MUGONERO",
+    "origin": "CONGO-NILE",
+    "destination": "MUGONERO",
+    "fare": 2812,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 561,
+    "route": "RUBAVU - CONGO-NILE",
+    "origin": "RUBAVU",
+    "destination": "CONGO-NILE",
+    "fare": 2832,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 562,
+    "route": "KIGEYO - KARONGI",
+    "origin": "KIGEYO",
+    "destination": "KARONGI",
+    "fare": 2970,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 563,
+    "route": "NKOMERO - GISHYITA",
+    "origin": "NKOMERO",
+    "destination": "GISHYITA",
+    "fare": 3069,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 564,
+    "route": "GISIZA - MUGONERO",
+    "origin": "GISIZA",
+    "destination": "MUGONERO",
+    "fare": 3228,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 565,
+    "route": "GAKERI - MUBUGA",
+    "origin": "GAKERI",
+    "destination": "MUBUGA",
+    "fare": 3386,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 566,
+    "route": "NKOMERO - MUGONERO",
+    "origin": "NKOMERO",
+    "destination": "MUGONERO",
+    "fare": 3485,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 567,
+    "route": "RUBAVU - RUBENGERA",
+    "origin": "RUBAVU",
+    "destination": "RUBENGERA",
+    "fare": 3524,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 568,
+    "route": "CONGO-NILE - KARENGERA",
+    "origin": "CONGO-NILE",
+    "destination": "KARENGERA",
+    "fare": 3524,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 569,
+    "route": "GAKERI - GISHYITA",
+    "origin": "GAKERI",
+    "destination": "GISHYITA",
+    "fare": 3623,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 570,
+    "route": "CONGO-NILE - HANIKA",
+    "origin": "CONGO-NILE",
+    "destination": "HANIKA",
+    "fare": 3901,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 571,
+    "route": "GISIZA - KARENGERA",
+    "origin": "GISIZA",
+    "destination": "KARENGERA",
+    "fare": 3940,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 572,
+    "route": "PFUNDA - KARONGI",
+    "origin": "PFUNDA",
+    "destination": "KARONGI",
+    "fare": 3960,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 573,
+    "route": "GAKERI - MUGONERO",
+    "origin": "GAKERI",
+    "destination": "MUGONERO",
+    "fare": 4039,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 574,
+    "route": "NKOMERO - KARENGERA",
+    "origin": "NKOMERO",
+    "destination": "KARENGERA",
+    "fare": 4178,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 575,
+    "route": "CONGO-NILE - KIRAMBO",
+    "origin": "CONGO-NILE",
+    "destination": "KIRAMBO",
+    "fare": 4197,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 576,
+    "route": "GISIZA - HANIKA",
+    "origin": "GISIZA",
+    "destination": "HANIKA",
+    "fare": 4316,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 577,
+    "route": "CONGO-NILE - TYAZO",
+    "origin": "CONGO-NILE",
+    "destination": "TYAZO",
+    "fare": 4316,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 578,
+    "route": "NKOMERO - HANIKA",
+    "origin": "NKOMERO",
+    "destination": "HANIKA",
+    "fare": 4553,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 579,
+    "route": "GISIZA - KIRAMBO",
+    "origin": "GISIZA",
+    "destination": "KIRAMBO",
+    "fare": 4594,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 580,
+    "route": "CONGO-NILE - NYAMASHEKE",
+    "origin": "CONGO-NILE",
+    "destination": "NYAMASHEKE",
+    "fare": 4652,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 581,
+    "route": "GISIZA - TYAZO",
+    "origin": "GISIZA",
+    "destination": "TYAZO",
+    "fare": 4732,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 582,
+    "route": "GAKERI - KARENGERA",
+    "origin": "GAKERI",
+    "destination": "KARENGERA",
+    "fare": 4753,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 583,
+    "route": "NKOMERO - KIRAMBO",
+    "origin": "NKOMERO",
+    "destination": "KIRAMBO",
+    "fare": 4851,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 584,
+    "route": "RUBAVU - KARONGI",
+    "origin": "RUBAVU",
+    "destination": "KARONGI",
+    "fare": 4950,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 585,
+    "route": "NKOMERO - TYAZO",
+    "origin": "NKOMERO",
+    "destination": "TYAZO",
+    "fare": 4969,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 586,
+    "route": "GISIZA - NYAMASHEKE",
+    "origin": "GISIZA",
+    "destination": "NYAMASHEKE",
+    "fare": 5068,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 587,
+    "route": "GAKERI - HANIKA",
+    "origin": "GAKERI",
+    "destination": "HANIKA",
+    "fare": 5128,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 588,
+    "route": "RUBAVU - MUBUGA",
+    "origin": "RUBAVU",
+    "destination": "MUBUGA",
+    "fare": 5247,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 589,
+    "route": "NKOMERO - NYAMASHEKE",
+    "origin": "NKOMERO",
+    "destination": "NYAMASHEKE",
+    "fare": 5307,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 590,
+    "route": "GAKERI - KIRAMBO",
+    "origin": "GAKERI",
+    "destination": "KIRAMBO",
+    "fare": 5426,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 591,
+    "route": "GAKERI - TYAZO",
+    "origin": "GAKERI",
+    "destination": "TYAZO",
+    "fare": 5544,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 592,
+    "route": "RUBAVU - GISHYITA",
+    "origin": "RUBAVU",
+    "destination": "GISHYITA",
+    "fare": 5642,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 593,
+    "route": "GAKERI - NYAMASHEKE",
+    "origin": "GAKERI",
+    "destination": "NYAMASHEKE",
+    "fare": 5881,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 594,
+    "route": "RUBAVU - MUGONERO",
+    "origin": "RUBAVU",
+    "destination": "MUGONERO",
+    "fare": 5940,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 595,
+    "route": "CONGO-NILE - KAMEMBE",
+    "origin": "CONGO-NILE",
+    "destination": "KAMEMBE",
+    "fare": 6138,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 596,
+    "route": "RUBAVU - KARENGERA",
+    "origin": "RUBAVU",
+    "destination": "KARENGERA",
+    "fare": 6356,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 597,
+    "route": "GISIZA - KAMEMBE",
+    "origin": "GISIZA",
+    "destination": "KAMEMBE",
+    "fare": 6554,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 598,
+    "route": "RUBAVU - HANIKA",
+    "origin": "RUBAVU",
+    "destination": "HANIKA",
+    "fare": 6731,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 599,
+    "route": "NKOMERO - KAMEMBE",
+    "origin": "NKOMERO",
+    "destination": "KAMEMBE",
+    "fare": 6811,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 600,
+    "route": "RUBAVU - KIRAMBO",
+    "origin": "RUBAVU",
+    "destination": "KIRAMBO",
+    "fare": 7029,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 601,
+    "route": "RUBAVU - TYAZO",
+    "origin": "RUBAVU",
+    "destination": "TYAZO",
+    "fare": 7147,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 602,
+    "route": "GAKERI - KAMEMBE",
+    "origin": "GAKERI",
+    "destination": "KAMEMBE",
+    "fare": 7365,
+    "image": "https://images.unsplash.com/photo-1516496636080-14fb876e029d?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 603,
+    "route": "RUBAVU - NYAMASHEKE",
+    "origin": "RUBAVU",
+    "destination": "NYAMASHEKE",
+    "fare": 7721,
+    "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 604,
+    "route": "RUBAVU - NTENDEZI",
+    "origin": "RUBAVU",
+    "destination": "NTENDEZI",
+    "fare": 7979,
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85"
+  },
+  {
+    "id": 605,
+    "route": "RUBAVU - KAMEMBE",
+    "origin": "RUBAVU",
+    "destination": "KAMEMBE",
+    "fare": 9009,
+    "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=900&q=85"
+  }
+]

@@ -1,0 +1,19 @@
+services:
+  postgres:
+    image: postgres:16
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: kigali_coach_tours
+      POSTGRES_USER: kctt_user
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-CHANGE_ME}
+    ports:
+      - "5432:5432"
+    volumes:
+      - kctt-postgres:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U kctt_user -d kigali_coach_tours"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+volumes:
+  kctt-postgres:

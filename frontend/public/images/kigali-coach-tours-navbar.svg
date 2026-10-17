@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 150" role="img" aria-labelledby="title desc">
+  <title id="title">Kigali Coach Tours &amp; Travel</title>
+  <desc id="desc">KCTT wordmark in orange with blue and green travel wave accents.</desc>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="12" y="100" fill="#F07824" font-size="104" font-weight="800" letter-spacing="-5">KCTT</text>
+    <text x="324" y="65" fill="#F07824" font-size="31" font-weight="800" letter-spacing="1.1">KIGALI COACH</text>
+    <text x="324" y="108" fill="#174A70" font-size="27" font-weight="700" letter-spacing="1.0">TOURS &amp; TRAVEL</text>
+  </g>
+  <path d="M26 124 C67 108 103 142 144 124 S221 108 263 124 S295 134 311 127" fill="none" stroke="#187CB4" stroke-width="7" stroke-linecap="round"/>
+  <path d="M28 139 C70 123 105 157 147 139 S224 123 266 139 S297 148 311 142" fill="none" stroke="#59A94C" stroke-width="6" stroke-linecap="round"/>
+</svg>

@@ -156,6 +156,7 @@ func (s *Server) createRoute(w http.ResponseWriter, r *http.Request) {
 		write(w, 409, map[string]string{"error": "could not create route"})
 		return
 	}
+	s.recordStaffActivity(r, "Route created", id, in.Name)
 	write(w, 201, map[string]string{"id": id})
 }
 func (s *Server) updateRoute(w http.ResponseWriter, r *http.Request) {
@@ -177,6 +178,7 @@ func (s *Server) updateRoute(w http.ResponseWriter, r *http.Request) {
 		write(w, 404, map[string]string{"error": "route not found or update failed"})
 		return
 	}
+	s.recordStaffActivity(r, "Route updated", chi.URLParam(r, "id"), in.Name)
 	write(w, 200, map[string]string{"status": "updated"})
 }
 
@@ -203,6 +205,7 @@ func (s *Server) createCoach(w http.ResponseWriter, r *http.Request) {
 		write(w, 409, map[string]string{"error": "coach registration already exists or details are invalid"})
 		return
 	}
+	s.recordStaffActivity(r, "Coach added", id, in.Registration)
 	write(w, 201, map[string]string{"id": id})
 }
 func (s *Server) updateCoach(w http.ResponseWriter, r *http.Request) {
@@ -220,6 +223,7 @@ func (s *Server) updateCoach(w http.ResponseWriter, r *http.Request) {
 		write(w, 404, map[string]string{"error": "coach not found or update failed"})
 		return
 	}
+	s.recordStaffActivity(r, "Coach updated", chi.URLParam(r, "id"), in.Registration)
 	write(w, 200, map[string]string{"status": "updated"})
 }
 
@@ -292,6 +296,7 @@ func (s *Server) createTrip(w http.ResponseWriter, r *http.Request) {
 		write(w, 400, map[string]string{"error": "could not schedule trip; verify route and coach"})
 		return
 	}
+	s.recordStaffActivity(r, "Trip scheduled", id, in.RouteID)
 	write(w, 201, map[string]string{"id": id})
 }
 func (s *Server) updateTrip(w http.ResponseWriter, r *http.Request) {
@@ -370,6 +375,7 @@ func (s *Server) updateTrip(w http.ResponseWriter, r *http.Request) {
 		details, _ := json.Marshal(map[string]any{"recorded_from": "staff_operations"})
 		_, _ = s.db.Exec(r.Context(), `INSERT INTO trip_events(trip_id,actor_id,event_type,details) VALUES($1,$2,$3,$4)`, chi.URLParam(r, "id"), u.ID, in.Status, details)
 	}
+	s.recordStaffActivity(r, "Trip updated", chi.URLParam(r, "id"), in.Status)
 	write(w, 200, map[string]string{"status": "updated"})
 }
 func (s *Server) setRole(w http.ResponseWriter, r *http.Request) {

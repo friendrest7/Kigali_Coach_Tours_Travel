@@ -57,7 +57,7 @@ func New(db *pgxpool.Pool) http.Handler {
 		})
 		r.Group(func(p chi.Router) {
 			p.Use(s.auth)
-			p.Use(roles("agent", "operations", "finance", "admin"))
+			p.Use(roles("agent", "tickateur", "ticket_manager", "operations", "finance", "admin"))
 			p.Get("/ops/trips", s.opsTrips)
 			p.Get("/ops/coaches", s.opsCoaches)
 			p.Post("/ops/trips/{id}/events", s.tripEvent)
@@ -81,7 +81,14 @@ func New(db *pgxpool.Pool) http.Handler {
 			p.Get("/reports/operations.csv", s.operationsCSV)
 			p.Get("/ops/refunds", s.listRefunds)
 		})
-		r.Group(func(p chi.Router) { p.Use(s.auth); p.Use(roles("admin")); p.Patch("/admin/users/{id}/role", s.setRole) })
+		r.Group(func(p chi.Router) {
+			p.Use(s.auth)
+			p.Use(roles("admin", "hr", "ticket_manager"))
+			p.Get("/admin/users", s.listStaff)
+			p.Post("/admin/users", s.createStaff)
+			p.Patch("/admin/users/{id}/role", s.setStaff)
+		})
+		r.Group(func(p chi.Router) { p.Use(s.auth); p.Use(roles("admin")); p.Get("/admin/activity", s.staffActivity) })
 		r.Group(func(p chi.Router) {
 			p.Use(s.auth)
 			p.Use(roles("finance", "admin"))
